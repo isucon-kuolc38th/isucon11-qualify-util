@@ -10,8 +10,8 @@ for remote_host in ${remote_hosts[@]}; do
 
 	script_in_server="cd /home"
 	script_in_server+=" && export PATH=\$PATH:/home/isucon/local/go/bin"
-	script_in_server+=" && source /home/isucon/isuumo/${remote_host}/restart.sh"
-	# script_in_server+=" && sudo -u isucon bash ${server_git_dir}/${remote_host}/restart.sh"
+	script_in_server+=" && source /home/isucon/isuumo/${remote_host}/restart.sh" # ! 要編集
+	# script_in_server+=" && sudo -u isucon bash ${server_git_dir}/${remote_host}/restart.sh" # centos用
 
 	ssh -t $remote_host $script_in_server
 done

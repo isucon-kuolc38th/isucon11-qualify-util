@@ -23,7 +23,7 @@ cp -r ${utilhome}/pprof ${utilhome}/log/${log_id}/pprof
 # fetch measure result
 curl http://$app_ip/stats >${utilhome}/log/${log_id}/measure.csv
 # csv -> tsv
-tr "," "\\t" <${utilhome}/log/${log_id}/measure.csv >${utilhome}/log/${log_id}/measure.tsv
+# tr "," "\\t" <${utilhome}/log/${log_id}/measure.csv >${utilhome}/log/${log_id}/measure.tsv
 
 echo "-------------"
 echo "isucon1"
@@ -53,8 +53,8 @@ for ((i = 0; i < ${#isucon3_server_logs[@]}; i++)); do
 done
 
 # print SQL digest
-pt-query-digest ${utilhome}/log/${log_id}/mysql/slow_query2.log >${utilhome}/log/${log_id}/query_digest2
-pt-query-digest ${utilhome}/log/${log_id}/mysql/slow_query3.log >${utilhome}/log/${log_id}/query_digest3
+# pt-query-digest ${utilhome}/log/${log_id}/mysql/slow_query2.log >${utilhome}/log/${log_id}/query_digest2
+# pt-query-digest ${utilhome}/log/${log_id}/mysql/slow_query3.log >${utilhome}/log/${log_id}/query_digest3
 
 # print ALP result
 ltsv_format=""
