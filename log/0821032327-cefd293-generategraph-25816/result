@@ -1,0 +1,67 @@
+12:22:10.096021 ===> PREPARE
+12:22:15.619627 ===> LOAD
+12:22:15.619747 score: 0(0 - 0) : Score
+12:22:15.619751 deduction: 0 / timeout: 0
+12:22:18.620140 score: 1516(1516 - 0) : pass
+12:22:18.620173 deduction: 0 / timeout: 5
+12:22:20.620036 ユーザーは増えませんでした
+12:22:21.620134 score: 2920(2920 - 0) : pass
+12:22:21.620158 deduction: 0 / timeout: 6
+12:22:24.620526 score: 4193(4194 - 1) : pass
+12:22:24.620546 deduction: 0 / timeout: 16
+12:22:25.620251 サービスの評判が良くなり、ユーザーが1人増えました
+12:22:27.620844 score: 5624(5626 - 2) : pass
+12:22:27.620863 deduction: 0 / timeout: 24
+12:22:30.620709 ユーザーは増えませんでした
+12:22:30.620940 score: 7106(7108 - 2) : pass
+12:22:30.620951 deduction: 0 / timeout: 24
+12:22:33.620928 score: 8560(8562 - 2) : pass
+12:22:33.620948 deduction: 0 / timeout: 24
+12:22:35.620896 ユーザーは増えませんでした
+12:22:36.621253 score: 10286(10288 - 2) : pass
+12:22:36.621275 deduction: 0 / timeout: 24
+12:22:39.621231 score: 11410(11412 - 2) : pass
+12:22:39.621252 deduction: 0 / timeout: 24
+12:22:40.621387 ユーザーは増えませんでした
+12:22:42.621333 score: 12386(12388 - 2) : pass
+12:22:42.621358 deduction: 0 / timeout: 24
+12:22:45.621538 score: 13600(13602 - 2) : pass
+12:22:45.621549 deduction: 0 / timeout: 24
+12:22:45.621612 ユーザーは増えませんでした
+12:22:48.621528 score: 15022(15024 - 2) : pass
+12:22:48.621547 deduction: 0 / timeout: 24
+12:22:50.621879 ユーザーは増えませんでした
+12:22:51.621688 score: 16348(16350 - 2) : pass
+12:22:51.621708 deduction: 0 / timeout: 24
+12:22:54.621676 score: 17640(17642 - 2) : pass
+12:22:54.621696 deduction: 0 / timeout: 24
+12:22:55.622357 ユーザーは増えませんでした
+12:22:57.621858 score: 18820(18822 - 2) : pass
+12:22:57.621885 deduction: 0 / timeout: 24
+12:23:00.621933 score: 20284(20286 - 2) : pass
+12:23:00.621953 deduction: 0 / timeout: 24
+12:23:00.623596 ユーザーは増えませんでした
+12:23:03.621988 score: 21788(21790 - 2) : pass
+12:23:03.622007 deduction: 0 / timeout: 24
+12:23:05.624281 ユーザーは増えませんでした
+12:23:06.622246 score: 23060(23062 - 2) : pass
+12:23:06.622293 deduction: 0 / timeout: 24
+12:23:09.622336 score: 23782(23784 - 2) : pass
+12:23:09.622356 deduction: 0 / timeout: 24
+12:23:10.624618 ユーザーは増えませんでした
+12:23:12.622553 score: 24782(24784 - 2) : pass
+12:23:12.622571 deduction: 0 / timeout: 24
+12:23:15.625626 SCORE: 00.StartBenchmark       : 1
+12:23:15.625632 SCORE: 01.GraphGood            : 0
+12:23:15.625636 SCORE: 02.GraphNormal          : 0
+12:23:15.625639 SCORE: 03.GraphBad             : 0
+12:23:15.625643 SCORE: 04.GraphWorst           : 563
+12:23:15.625646 SCORE: 05.TodayGraphGood       : 0
+12:23:15.625650 SCORE: 06.TodayGraphNormal     : 0
+12:23:15.625653 SCORE: 07.TodayGraphBad        : 0
+12:23:15.625657 SCORE: 08.TodayGraphWorst      : 525
+12:23:15.625660 SCORE: 09.ReadInfoCondition    : 603
+12:23:15.625664 SCORE: 10.ReadWarningCondition : 599
+12:23:15.625667 SCORE: 11.ReadCriticalCondition: 59
+12:23:15.626054 score: 25816(25818 - 2) : pass
+12:23:15.626058 deduction: 0 / timeout: 25
