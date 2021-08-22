@@ -1,0 +1,98 @@
+Job #16954
+Summary
+ID: 16954
+
+Target: #1: isucondition-1.t.isucon.dev (54.199.41.247)
+
+Status: FINISHED
+
+Enqueued At: 2021-08-21 14:52:54.215
+
+Updated At: 2021-08-21 14:54:10.869
+
+Started At: 2021-08-21 14:52:55.978
+
+Finished At: 2021-08-21 14:54:10.850
+
+Result
+FinishedPassed
+
+Marked At: 2021-08-21 14:54:10.850
+
+Score: 44162
+
+Score Breakdown: base=44170, deduction=8
+
+Conclusion
+Reason: pass
+
+Stdout
+14:53:05.192255 ===> PREPARE
+14:53:10.722419 ===> LOAD
+14:53:10.722540 score: 0(0 - 0) : Score
+14:53:10.722544 deduction: 0 / timeout: 0
+14:53:13.722490 score: 1762(1762 - 0) : pass
+14:53:13.722510 deduction: 0 / timeout: 0
+14:53:15.722894 サービスの評判が良くなり、ユーザーが2人増えました
+14:53:16.722588 score: 3498(3498 - 0) : pass
+14:53:16.722615 deduction: 0 / timeout: 0
+14:53:19.722874 score: 5278(5278 - 0) : pass
+14:53:19.722901 deduction: 0 / timeout: 0
+14:53:20.723201 サービスの評判が良くなり、ユーザーが4人増えました
+14:53:22.725244 score: 6324(6324 - 0) : pass
+14:53:22.725270 deduction: 0 / timeout: 0
+14:53:25.723257 サービスの評判が良くなり、ユーザーが3人増えました
+14:53:25.725341 score: 8108(8108 - 0) : pass
+14:53:25.725347 deduction: 0 / timeout: 0
+14:53:28.725368 score: 9674(9674 - 0) : pass
+14:53:28.725392 deduction: 0 / timeout: 1
+14:53:30.723359 サービスの評判が良くなり、ユーザーが4人増えました
+14:53:31.726300 score: 11142(11142 - 0) : pass
+14:53:31.726326 deduction: 0 / timeout: 8
+14:53:34.726516 score: 13038(13040 - 2) : pass
+14:53:34.726534 deduction: 0 / timeout: 27
+14:53:35.723630 サービスの評判が良くなり、ユーザーが2人増えました
+14:53:37.727348 score: 14973(14976 - 3) : pass
+14:53:37.727377 deduction: 0 / timeout: 36
+14:53:40.723884 サービスの評判が良くなり、ユーザーが2人増えました
+14:53:40.726943 score: 17243(17246 - 3) : pass
+14:53:40.726952 deduction: 0 / timeout: 36
+14:53:43.727441 score: 19384(19388 - 4) : pass
+14:53:43.727460 deduction: 0 / timeout: 46
+14:53:45.724422 サービスの評判が良くなり、ユーザーが2人増えました
+14:53:46.727666 score: 21677(21682 - 5) : pass
+14:53:46.727686 deduction: 0 / timeout: 53
+14:53:49.728689 score: 24161(24166 - 5) : pass
+14:53:49.728708 deduction: 0 / timeout: 59
+14:53:50.724808 サービスの評判が良くなり、ユーザーが1人増えました
+14:53:52.728831 score: 26704(26710 - 6) : pass
+14:53:52.728849 deduction: 0 / timeout: 63
+14:53:55.725256 サービスの評判が良くなり、ユーザーが1人増えました
+14:53:55.729617 score: 29514(29520 - 6) : pass
+14:53:55.729631 deduction: 0 / timeout: 67
+14:53:58.729278 score: 32431(32438 - 7) : pass
+14:53:58.729308 deduction: 0 / timeout: 73
+14:54:00.725743 サービスの評判が良くなり、ユーザーが1人増えました
+14:54:01.729705 score: 35117(35124 - 7) : pass
+14:54:01.729731 deduction: 0 / timeout: 74
+14:54:04.730225 score: 38146(38154 - 8) : pass
+14:54:04.730255 deduction: 0 / timeout: 83
+14:54:05.726234 ユーザーは増えませんでした
+14:54:07.730220 score: 41162(41170 - 8) : pass
+14:54:07.730240 deduction: 0 / timeout: 83
+14:54:10.823444 SCORE: 00.StartBenchmark       : 1
+14:54:10.823452 SCORE: 01.GraphGood            : 0
+14:54:10.823457 SCORE: 02.GraphNormal          : 0
+14:54:10.823462 SCORE: 03.GraphBad             : 0
+14:54:10.823468 SCORE: 04.GraphWorst           : 1349
+14:54:10.823471 SCORE: 05.TodayGraphGood       : 0
+14:54:10.823475 SCORE: 06.TodayGraphNormal     : 0
+14:54:10.823479 SCORE: 07.TodayGraphBad        : 0
+14:54:10.823483 SCORE: 08.TodayGraphWorst      : 784
+14:54:10.823487 SCORE: 09.ReadInfoCondition    : 807
+14:54:10.823490 SCORE: 10.ReadWarningCondition : 1105
+14:54:10.823494 SCORE: 11.ReadCriticalCondition: 391
+14:54:10.824798 score: 44162(44170 - 8) : pass
+14:54:10.824806 deduction: 0 / timeout: 85
+Re-Enqueue
+同一ベンチ対象サーバーで再度 Enqueue できます。

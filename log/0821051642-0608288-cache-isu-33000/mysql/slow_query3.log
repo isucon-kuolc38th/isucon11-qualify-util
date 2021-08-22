@@ -1,0 +1,2655 @@
+# Time: 210821 14:15:14
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 10945  Schema: isucondition  QC_hit: No
+# Query_time: 0.000289  Lock_time: 0.000009  Rows_sent: 5  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 65166
+SET timestamp=1629522914;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon1' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 10945  Schema: isucondition  QC_hit: No
+# Query_time: 0.000203  Lock_time: 0.000007  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 21005
+SET timestamp=1629522914;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'confident_chatelet' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 10921  Schema: isucondition  QC_hit: No
+# Query_time: 0.000199  Lock_time: 0.000008  Rows_sent: 0  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522914;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'sharp_golick' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 10945  Schema: isucondition  QC_hit: No
+# Query_time: 0.000291  Lock_time: 0.000010  Rows_sent: 0  Rows_examined: 31
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522914;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 10948  Schema: isucondition  QC_hit: No
+# Query_time: 0.000297  Lock_time: 0.000013  Rows_sent: 0  Rows_examined: 31
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522914;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 10945  Schema: isucondition  QC_hit: No
+# Query_time: 0.000974  Lock_time: 0.000009  Rows_sent: 0  Rows_examined: 31
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522914;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 10949  Schema: isucondition  QC_hit: No
+# Query_time: 0.000670  Lock_time: 0.000011  Rows_sent: 0  Rows_examined: 31
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522914;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 10951  Schema: isucondition  QC_hit: No
+# Query_time: 0.000491  Lock_time: 0.000012  Rows_sent: 0  Rows_examined: 31
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522914;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 10952  Schema: isucondition  QC_hit: No
+# Query_time: 0.000186  Lock_time: 0.000017  Rows_sent: 0  Rows_examined: 31
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522914;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 10948  Schema: isucondition  QC_hit: No
+# Query_time: 0.000222  Lock_time: 0.000008  Rows_sent: 0  Rows_examined: 31
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522914;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 10981  Schema: isucondition  QC_hit: No
+# Query_time: 0.000487  Lock_time: 0.000012  Rows_sent: 4  Rows_examined: 65
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522914;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 10981  Schema: isucondition  QC_hit: No
+# Query_time: 0.000506  Lock_time: 0.000016  Rows_sent: 6  Rows_examined: 66
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522914;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 10989  Schema: isucondition  QC_hit: No
+# Query_time: 0.000386  Lock_time: 0.000010  Rows_sent: 4  Rows_examined: 66
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522914;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 10991  Schema: isucondition  QC_hit: No
+# Query_time: 0.000466  Lock_time: 0.000010  Rows_sent: 4  Rows_examined: 66
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522914;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# Time: 210821 14:15:15
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 10991  Schema: isucondition  QC_hit: No
+# Query_time: 0.000531  Lock_time: 0.000008  Rows_sent: 6  Rows_examined: 67
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11002  Schema: isucondition  QC_hit: No
+# Query_time: 0.000378  Lock_time: 0.000008  Rows_sent: 0  Rows_examined: 69
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'sharp_golick' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11012  Schema: isucondition  QC_hit: No
+# Query_time: 0.000357  Lock_time: 0.000009  Rows_sent: 4  Rows_examined: 69
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11012  Schema: isucondition  QC_hit: No
+# Query_time: 0.000475  Lock_time: 0.000019  Rows_sent: 6  Rows_examined: 70
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11022  Schema: isucondition  QC_hit: No
+# Query_time: 0.000470  Lock_time: 0.000009  Rows_sent: 7  Rows_examined: 70
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11025  Schema: isucondition  QC_hit: No
+# Query_time: 0.000332  Lock_time: 0.000010  Rows_sent: 4  Rows_examined: 71
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11032  Schema: isucondition  QC_hit: No
+# Query_time: 0.000662  Lock_time: 0.000010  Rows_sent: 7  Rows_examined: 72
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11038  Schema: isucondition  QC_hit: No
+# Query_time: 0.000559  Lock_time: 0.000011  Rows_sent: 6  Rows_examined: 73
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11049  Schema: isucondition  QC_hit: No
+# Query_time: 0.000442  Lock_time: 0.000008  Rows_sent: 6  Rows_examined: 74
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11053  Schema: isucondition  QC_hit: No
+# Query_time: 0.000376  Lock_time: 0.000015  Rows_sent: 6  Rows_examined: 74
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11052  Schema: isucondition  QC_hit: No
+# Query_time: 0.000531  Lock_time: 0.000011  Rows_sent: 4  Rows_examined: 74
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11068  Schema: isucondition  QC_hit: No
+# Query_time: 0.000640  Lock_time: 0.000009  Rows_sent: 7  Rows_examined: 74
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11085  Schema: isucondition  QC_hit: No
+# Query_time: 0.000672  Lock_time: 0.000008  Rows_sent: 4  Rows_examined: 74
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11088  Schema: isucondition  QC_hit: No
+# Query_time: 0.000615  Lock_time: 0.000012  Rows_sent: 6  Rows_examined: 75
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11085  Schema: isucondition  QC_hit: No
+# Query_time: 0.001125  Lock_time: 0.000018  Rows_sent: 6  Rows_examined: 75
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11098  Schema: isucondition  QC_hit: No
+# Query_time: 0.000353  Lock_time: 0.000015  Rows_sent: 4  Rows_examined: 75
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11103  Schema: isucondition  QC_hit: No
+# Query_time: 0.000437  Lock_time: 0.000015  Rows_sent: 7  Rows_examined: 75
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11097  Schema: isucondition  QC_hit: No
+# Query_time: 0.000699  Lock_time: 0.000018  Rows_sent: 6  Rows_examined: 75
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11109  Schema: isucondition  QC_hit: No
+# Query_time: 0.000487  Lock_time: 0.000011  Rows_sent: 6  Rows_examined: 76
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11119  Schema: isucondition  QC_hit: No
+# Query_time: 0.000532  Lock_time: 0.000010  Rows_sent: 7  Rows_examined: 76
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11109  Schema: isucondition  QC_hit: No
+# Query_time: 0.000329  Lock_time: 0.000010  Rows_sent: 4  Rows_examined: 76
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11119  Schema: isucondition  QC_hit: No
+# Query_time: 0.000395  Lock_time: 0.000009  Rows_sent: 7  Rows_examined: 76
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11140  Schema: isucondition  QC_hit: No
+# Query_time: 0.000414  Lock_time: 0.000008  Rows_sent: 7  Rows_examined: 76
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11147  Schema: isucondition  QC_hit: No
+# Query_time: 0.000416  Lock_time: 0.000008  Rows_sent: 6  Rows_examined: 77
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11151  Schema: isucondition  QC_hit: No
+# Query_time: 0.000554  Lock_time: 0.000012  Rows_sent: 6  Rows_examined: 77
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11138  Schema: isucondition  QC_hit: No
+# Query_time: 0.000430  Lock_time: 0.000009  Rows_sent: 7  Rows_examined: 77
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11160  Schema: isucondition  QC_hit: No
+# Query_time: 0.000518  Lock_time: 0.000009  Rows_sent: 6  Rows_examined: 77
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11163  Schema: isucondition  QC_hit: No
+# Query_time: 0.000487  Lock_time: 0.000009  Rows_sent: 9  Rows_examined: 77
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11163  Schema: isucondition  QC_hit: No
+# Query_time: 0.000425  Lock_time: 0.000008  Rows_sent: 6  Rows_examined: 77
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11184  Schema: isucondition  QC_hit: No
+# Query_time: 0.000578  Lock_time: 0.000040  Rows_sent: 4  Rows_examined: 77
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11194  Schema: isucondition  QC_hit: No
+# Query_time: 0.000611  Lock_time: 0.000010  Rows_sent: 7  Rows_examined: 78
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11145  Schema: isucondition  QC_hit: No
+# Query_time: 0.000777  Lock_time: 0.000011  Rows_sent: 6  Rows_examined: 78
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11209  Schema: isucondition  QC_hit: No
+# Query_time: 0.000547  Lock_time: 0.000015  Rows_sent: 7  Rows_examined: 78
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11214  Schema: isucondition  QC_hit: No
+# Query_time: 0.000518  Lock_time: 0.000009  Rows_sent: 4  Rows_examined: 78
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11231  Schema: isucondition  QC_hit: No
+# Query_time: 0.000597  Lock_time: 0.000007  Rows_sent: 7  Rows_examined: 78
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11229  Schema: isucondition  QC_hit: No
+# Query_time: 0.000624  Lock_time: 0.000024  Rows_sent: 9  Rows_examined: 78
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11230  Schema: isucondition  QC_hit: No
+# Query_time: 0.000616  Lock_time: 0.000010  Rows_sent: 7  Rows_examined: 78
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11231  Schema: isucondition  QC_hit: No
+# Query_time: 0.000548  Lock_time: 0.000034  Rows_sent: 6  Rows_examined: 78
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11260  Schema: isucondition  QC_hit: No
+# Query_time: 0.000446  Lock_time: 0.000012  Rows_sent: 4  Rows_examined: 78
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11257  Schema: isucondition  QC_hit: No
+# Query_time: 0.000452  Lock_time: 0.000026  Rows_sent: 6  Rows_examined: 78
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11268  Schema: isucondition  QC_hit: No
+# Query_time: 0.000484  Lock_time: 0.000020  Rows_sent: 6  Rows_examined: 79
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11280  Schema: isucondition  QC_hit: No
+# Query_time: 0.001028  Lock_time: 0.000019  Rows_sent: 7  Rows_examined: 79
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11278  Schema: isucondition  QC_hit: No
+# Query_time: 0.000475  Lock_time: 0.000012  Rows_sent: 9  Rows_examined: 79
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11289  Schema: isucondition  QC_hit: No
+# Query_time: 0.000989  Lock_time: 0.000012  Rows_sent: 9  Rows_examined: 79
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11286  Schema: isucondition  QC_hit: No
+# Query_time: 0.000449  Lock_time: 0.000008  Rows_sent: 4  Rows_examined: 79
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11305  Schema: isucondition  QC_hit: No
+# Query_time: 0.000391  Lock_time: 0.000012  Rows_sent: 6  Rows_examined: 79
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11311  Schema: isucondition  QC_hit: No
+# Query_time: 0.000420  Lock_time: 0.000012  Rows_sent: 7  Rows_examined: 79
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 11497  Schema: isucondition  QC_hit: No
+# Query_time: 0.000582  Lock_time: 0.000009  Rows_sent: 0  Rows_examined: 79
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522915;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'sharp_golick' ORDER BY `id` DESC;
+# Time: 210821 14:15:19
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 14900  Schema: isucondition  QC_hit: No
+# Query_time: 0.000482  Lock_time: 0.000009  Rows_sent: 0  Rows_examined: 79
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 14922  Schema: isucondition  QC_hit: No
+# Query_time: 0.000995  Lock_time: 0.000010  Rows_sent: 0  Rows_examined: 79
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'tender_kapitsa' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 14923  Schema: isucondition  QC_hit: No
+# Query_time: 0.000657  Lock_time: 0.000012  Rows_sent: 0  Rows_examined: 79
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 14935  Schema: isucondition  QC_hit: No
+# Query_time: 0.001090  Lock_time: 0.000011  Rows_sent: 7  Rows_examined: 79
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 14899  Schema: isucondition  QC_hit: No
+# Query_time: 0.000584  Lock_time: 0.000012  Rows_sent: 7  Rows_examined: 79
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 14938  Schema: isucondition  QC_hit: No
+# Query_time: 0.000800  Lock_time: 0.000018  Rows_sent: 9  Rows_examined: 79
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 14944  Schema: isucondition  QC_hit: No
+# Query_time: 0.000520  Lock_time: 0.000026  Rows_sent: 6  Rows_examined: 79
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 14899  Schema: isucondition  QC_hit: No
+# Query_time: 0.001169  Lock_time: 0.000010  Rows_sent: 9  Rows_examined: 79
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 14935  Schema: isucondition  QC_hit: No
+# Query_time: 0.000659  Lock_time: 0.000021  Rows_sent: 4  Rows_examined: 79
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 14958  Schema: isucondition  QC_hit: No
+# Query_time: 0.001720  Lock_time: 0.000011  Rows_sent: 6  Rows_examined: 79
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 14969  Schema: isucondition  QC_hit: No
+# Query_time: 0.000612  Lock_time: 0.000012  Rows_sent: 6  Rows_examined: 81
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 14987  Schema: isucondition  QC_hit: No
+# Query_time: 0.000512  Lock_time: 0.000049  Rows_sent: 7  Rows_examined: 81
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 14986  Schema: isucondition  QC_hit: No
+# Query_time: 0.000701  Lock_time: 0.000009  Rows_sent: 7  Rows_examined: 81
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 14988  Schema: isucondition  QC_hit: No
+# Query_time: 0.000532  Lock_time: 0.000008  Rows_sent: 9  Rows_examined: 81
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 14983  Schema: isucondition  QC_hit: No
+# Query_time: 0.000398  Lock_time: 0.000012  Rows_sent: 9  Rows_examined: 82
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15011  Schema: isucondition  QC_hit: No
+# Query_time: 0.001317  Lock_time: 0.000008  Rows_sent: 6  Rows_examined: 82
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15009  Schema: isucondition  QC_hit: No
+# Query_time: 0.000493  Lock_time: 0.000009  Rows_sent: 4  Rows_examined: 82
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15032  Schema: isucondition  QC_hit: No
+# Query_time: 0.000443  Lock_time: 0.000013  Rows_sent: 7  Rows_examined: 82
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15034  Schema: isucondition  QC_hit: No
+# Query_time: 0.000461  Lock_time: 0.000011  Rows_sent: 6  Rows_examined: 83
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15027  Schema: isucondition  QC_hit: No
+# Query_time: 0.000932  Lock_time: 0.000012  Rows_sent: 9  Rows_examined: 83
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 14981  Schema: isucondition  QC_hit: No
+# Query_time: 0.000514  Lock_time: 0.000023  Rows_sent: 7  Rows_examined: 83
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15046  Schema: isucondition  QC_hit: No
+# Query_time: 0.000558  Lock_time: 0.000008  Rows_sent: 9  Rows_examined: 83
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15048  Schema: isucondition  QC_hit: No
+# Query_time: 0.000536  Lock_time: 0.000009  Rows_sent: 4  Rows_examined: 83
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15051  Schema: isucondition  QC_hit: No
+# Query_time: 0.001346  Lock_time: 0.000021  Rows_sent: 6  Rows_examined: 84
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15059  Schema: isucondition  QC_hit: No
+# Query_time: 0.000591  Lock_time: 0.000009  Rows_sent: 7  Rows_examined: 84
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15018  Schema: isucondition  QC_hit: No
+# Query_time: 0.000671  Lock_time: 0.000011  Rows_sent: 7  Rows_examined: 84
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15059  Schema: isucondition  QC_hit: No
+# Query_time: 0.000664  Lock_time: 0.000007  Rows_sent: 9  Rows_examined: 84
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15059  Schema: isucondition  QC_hit: No
+# Query_time: 0.000320  Lock_time: 0.000021  Rows_sent: 2  Rows_examined: 84
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15090  Schema: isucondition  QC_hit: No
+# Query_time: 0.000638  Lock_time: 0.000059  Rows_sent: 6  Rows_examined: 86
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15094  Schema: isucondition  QC_hit: No
+# Query_time: 0.000510  Lock_time: 0.000011  Rows_sent: 9  Rows_examined: 86
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15100  Schema: isucondition  QC_hit: No
+# Query_time: 0.000565  Lock_time: 0.000031  Rows_sent: 4  Rows_examined: 86
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15100  Schema: isucondition  QC_hit: No
+# Query_time: 0.001081  Lock_time: 0.000007  Rows_sent: 3  Rows_examined: 86
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15097  Schema: isucondition  QC_hit: No
+# Query_time: 0.000380  Lock_time: 0.000012  Rows_sent: 2  Rows_examined: 86
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15127  Schema: isucondition  QC_hit: No
+# Query_time: 0.000807  Lock_time: 0.000034  Rows_sent: 7  Rows_examined: 86
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15129  Schema: isucondition  QC_hit: No
+# Query_time: 0.001276  Lock_time: 0.000009  Rows_sent: 7  Rows_examined: 86
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15130  Schema: isucondition  QC_hit: No
+# Query_time: 0.001244  Lock_time: 0.000007  Rows_sent: 6  Rows_examined: 86
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15131  Schema: isucondition  QC_hit: No
+# Query_time: 0.000525  Lock_time: 0.000007  Rows_sent: 9  Rows_examined: 86
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15127  Schema: isucondition  QC_hit: No
+# Query_time: 0.003415  Lock_time: 0.000009  Rows_sent: 4  Rows_examined: 86
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522919;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# Time: 210821 14:15:20
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15169  Schema: isucondition  QC_hit: No
+# Query_time: 0.000753  Lock_time: 0.000010  Rows_sent: 2  Rows_examined: 87
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15178  Schema: isucondition  QC_hit: No
+# Query_time: 0.000542  Lock_time: 0.000016  Rows_sent: 3  Rows_examined: 87
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15169  Schema: isucondition  QC_hit: No
+# Query_time: 0.002755  Lock_time: 0.000011  Rows_sent: 9  Rows_examined: 87
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15180  Schema: isucondition  QC_hit: No
+# Query_time: 0.000434  Lock_time: 0.000012  Rows_sent: 6  Rows_examined: 87
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15198  Schema: isucondition  QC_hit: No
+# Query_time: 0.000578  Lock_time: 0.000019  Rows_sent: 7  Rows_examined: 87
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15207  Schema: isucondition  QC_hit: No
+# Query_time: 0.000818  Lock_time: 0.000009  Rows_sent: 9  Rows_examined: 87
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15199  Schema: isucondition  QC_hit: No
+# Query_time: 0.000791  Lock_time: 0.000013  Rows_sent: 6  Rows_examined: 87
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15204  Schema: isucondition  QC_hit: No
+# Query_time: 0.000520  Lock_time: 0.000012  Rows_sent: 7  Rows_examined: 87
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15206  Schema: isucondition  QC_hit: No
+# Query_time: 0.000469  Lock_time: 0.000011  Rows_sent: 9  Rows_examined: 87
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15211  Schema: isucondition  QC_hit: No
+# Query_time: 0.000436  Lock_time: 0.000014  Rows_sent: 3  Rows_examined: 87
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15215  Schema: isucondition  QC_hit: No
+# Query_time: 0.000539  Lock_time: 0.000010  Rows_sent: 4  Rows_examined: 88
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15238  Schema: isucondition  QC_hit: No
+# Query_time: 0.001004  Lock_time: 0.000012  Rows_sent: 6  Rows_examined: 88
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15236  Schema: isucondition  QC_hit: No
+# Query_time: 0.000503  Lock_time: 0.000012  Rows_sent: 7  Rows_examined: 88
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15242  Schema: isucondition  QC_hit: No
+# Query_time: 0.000761  Lock_time: 0.000012  Rows_sent: 6  Rows_examined: 88
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15239  Schema: isucondition  QC_hit: No
+# Query_time: 0.000502  Lock_time: 0.000009  Rows_sent: 2  Rows_examined: 88
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15252  Schema: isucondition  QC_hit: No
+# Query_time: 0.000468  Lock_time: 0.000009  Rows_sent: 9  Rows_examined: 88
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15228  Schema: isucondition  QC_hit: No
+# Query_time: 0.000647  Lock_time: 0.000009  Rows_sent: 7  Rows_examined: 88
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15262  Schema: isucondition  QC_hit: No
+# Query_time: 0.000397  Lock_time: 0.000013  Rows_sent: 0  Rows_examined: 88
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'sharp_golick' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15266  Schema: isucondition  QC_hit: No
+# Query_time: 0.001478  Lock_time: 0.000014  Rows_sent: 4  Rows_examined: 88
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15232  Schema: isucondition  QC_hit: No
+# Query_time: 0.000882  Lock_time: 0.000017  Rows_sent: 9  Rows_examined: 88
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15278  Schema: isucondition  QC_hit: No
+# Query_time: 0.000507  Lock_time: 0.000009  Rows_sent: 3  Rows_examined: 88
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15263  Schema: isucondition  QC_hit: No
+# Query_time: 0.001278  Lock_time: 0.000012  Rows_sent: 2  Rows_examined: 88
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15289  Schema: isucondition  QC_hit: No
+# Query_time: 0.000539  Lock_time: 0.000018  Rows_sent: 6  Rows_examined: 88
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15248  Schema: isucondition  QC_hit: No
+# Query_time: 0.000936  Lock_time: 0.000008  Rows_sent: 6  Rows_examined: 88
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15291  Schema: isucondition  QC_hit: No
+# Query_time: 0.000402  Lock_time: 0.000012  Rows_sent: 7  Rows_examined: 88
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15310  Schema: isucondition  QC_hit: No
+# Query_time: 0.000619  Lock_time: 0.000020  Rows_sent: 9  Rows_examined: 88
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15232  Schema: isucondition  QC_hit: No
+# Query_time: 0.000555  Lock_time: 0.000009  Rows_sent: 2  Rows_examined: 88
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15330  Schema: isucondition  QC_hit: No
+# Query_time: 0.000488  Lock_time: 0.000010  Rows_sent: 6  Rows_examined: 89
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15345  Schema: isucondition  QC_hit: No
+# Query_time: 0.001598  Lock_time: 0.000042  Rows_sent: 7  Rows_examined: 89
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15347  Schema: isucondition  QC_hit: No
+# Query_time: 0.000709  Lock_time: 0.000013  Rows_sent: 9  Rows_examined: 89
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15366  Schema: isucondition  QC_hit: No
+# Query_time: 0.001964  Lock_time: 0.000035  Rows_sent: 7  Rows_examined: 89
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15355  Schema: isucondition  QC_hit: No
+# Query_time: 0.000436  Lock_time: 0.000015  Rows_sent: 4  Rows_examined: 89
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15363  Schema: isucondition  QC_hit: No
+# Query_time: 0.000750  Lock_time: 0.000011  Rows_sent: 3  Rows_examined: 89
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15375  Schema: isucondition  QC_hit: No
+# Query_time: 0.000581  Lock_time: 0.000013  Rows_sent: 9  Rows_examined: 89
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15389  Schema: isucondition  QC_hit: No
+# Query_time: 0.000398  Lock_time: 0.000011  Rows_sent: 2  Rows_examined: 89
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15386  Schema: isucondition  QC_hit: No
+# Query_time: 0.000520  Lock_time: 0.000010  Rows_sent: 6  Rows_examined: 89
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15367  Schema: isucondition  QC_hit: No
+# Query_time: 0.000536  Lock_time: 0.000009  Rows_sent: 9  Rows_examined: 90
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15408  Schema: isucondition  QC_hit: No
+# Query_time: 0.001061  Lock_time: 0.000027  Rows_sent: 6  Rows_examined: 90
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15407  Schema: isucondition  QC_hit: No
+# Query_time: 0.000610  Lock_time: 0.000011  Rows_sent: 4  Rows_examined: 90
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15409  Schema: isucondition  QC_hit: No
+# Query_time: 0.000488  Lock_time: 0.000015  Rows_sent: 3  Rows_examined: 90
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15422  Schema: isucondition  QC_hit: No
+# Query_time: 0.000660  Lock_time: 0.000033  Rows_sent: 6  Rows_examined: 90
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15425  Schema: isucondition  QC_hit: No
+# Query_time: 0.000622  Lock_time: 0.000017  Rows_sent: 2  Rows_examined: 90
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15421  Schema: isucondition  QC_hit: No
+# Query_time: 0.000831  Lock_time: 0.000011  Rows_sent: 7  Rows_examined: 90
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15434  Schema: isucondition  QC_hit: No
+# Query_time: 0.000545  Lock_time: 0.000023  Rows_sent: 9  Rows_examined: 90
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15444  Schema: isucondition  QC_hit: No
+# Query_time: 0.000764  Lock_time: 0.000010  Rows_sent: 7  Rows_examined: 90
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15453  Schema: isucondition  QC_hit: No
+# Query_time: 0.000590  Lock_time: 0.000014  Rows_sent: 9  Rows_examined: 90
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15455  Schema: isucondition  QC_hit: No
+# Query_time: 0.000560  Lock_time: 0.000027  Rows_sent: 6  Rows_examined: 90
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15444  Schema: isucondition  QC_hit: No
+# Query_time: 0.000837  Lock_time: 0.000010  Rows_sent: 2  Rows_examined: 90
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15471  Schema: isucondition  QC_hit: No
+# Query_time: 0.000472  Lock_time: 0.000020  Rows_sent: 3  Rows_examined: 90
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15462  Schema: isucondition  QC_hit: No
+# Query_time: 0.000512  Lock_time: 0.000009  Rows_sent: 7  Rows_examined: 91
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15489  Schema: isucondition  QC_hit: No
+# Query_time: 0.000537  Lock_time: 0.000012  Rows_sent: 6  Rows_examined: 91
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15490  Schema: isucondition  QC_hit: No
+# Query_time: 0.000550  Lock_time: 0.000016  Rows_sent: 7  Rows_examined: 91
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15462  Schema: isucondition  QC_hit: No
+# Query_time: 0.000761  Lock_time: 0.000008  Rows_sent: 7  Rows_examined: 91
+# Rows_affected: 0  Bytes_sent: 168889
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'tender_kapitsa' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15494  Schema: isucondition  QC_hit: No
+# Query_time: 0.000566  Lock_time: 0.000008  Rows_sent: 9  Rows_examined: 91
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15510  Schema: isucondition  QC_hit: No
+# Query_time: 0.000718  Lock_time: 0.000036  Rows_sent: 6  Rows_examined: 91
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15494  Schema: isucondition  QC_hit: No
+# Query_time: 0.000504  Lock_time: 0.000009  Rows_sent: 4  Rows_examined: 91
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15505  Schema: isucondition  QC_hit: No
+# Query_time: 0.000522  Lock_time: 0.000008  Rows_sent: 2  Rows_examined: 91
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15517  Schema: isucondition  QC_hit: No
+# Query_time: 0.000640  Lock_time: 0.000012  Rows_sent: 9  Rows_examined: 91
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15528  Schema: isucondition  QC_hit: No
+# Query_time: 0.000540  Lock_time: 0.000008  Rows_sent: 3  Rows_examined: 91
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 15752  Schema: isucondition  QC_hit: No
+# Query_time: 0.000978  Lock_time: 0.000009  Rows_sent: 0  Rows_examined: 91
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522920;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'sharp_golick' ORDER BY `id` DESC;
+# Time: 210821 14:15:24
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18164  Schema: isucondition  QC_hit: No
+# Query_time: 0.000571  Lock_time: 0.000011  Rows_sent: 0  Rows_examined: 91
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522924;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'happy_feynman' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18206  Schema: isucondition  QC_hit: No
+# Query_time: 0.000984  Lock_time: 0.000024  Rows_sent: 0  Rows_examined: 92
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522924;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'wonderful_gould' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18205  Schema: isucondition  QC_hit: No
+# Query_time: 0.000596  Lock_time: 0.000041  Rows_sent: 3  Rows_examined: 92
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522924;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18220  Schema: isucondition  QC_hit: No
+# Query_time: 0.002461  Lock_time: 0.000035  Rows_sent: 4  Rows_examined: 92
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522924;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18208  Schema: isucondition  QC_hit: No
+# Query_time: 0.000333  Lock_time: 0.000012  Rows_sent: 0  Rows_examined: 92
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522924;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'sharp_snyder' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18220  Schema: isucondition  QC_hit: No
+# Query_time: 0.000830  Lock_time: 0.000326  Rows_sent: 0  Rows_examined: 92
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522924;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18233  Schema: isucondition  QC_hit: No
+# Query_time: 0.000780  Lock_time: 0.000024  Rows_sent: 9  Rows_examined: 92
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522924;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18224  Schema: isucondition  QC_hit: No
+# Query_time: 0.001167  Lock_time: 0.000015  Rows_sent: 7  Rows_examined: 92
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522924;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18231  Schema: isucondition  QC_hit: No
+# Query_time: 0.000828  Lock_time: 0.000012  Rows_sent: 6  Rows_examined: 92
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522924;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18257  Schema: isucondition  QC_hit: No
+# Query_time: 0.000366  Lock_time: 0.000013  Rows_sent: 2  Rows_examined: 94
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522924;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18267  Schema: isucondition  QC_hit: No
+# Query_time: 0.000534  Lock_time: 0.000012  Rows_sent: 7  Rows_examined: 94
+# Rows_affected: 0  Bytes_sent: 168889
+SET timestamp=1629522924;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'tender_kapitsa' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18285  Schema: isucondition  QC_hit: No
+# Query_time: 0.000478  Lock_time: 0.000009  Rows_sent: 3  Rows_examined: 95
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522924;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18277  Schema: isucondition  QC_hit: No
+# Query_time: 0.000764  Lock_time: 0.000009  Rows_sent: 9  Rows_examined: 95
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522924;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18288  Schema: isucondition  QC_hit: No
+# Query_time: 0.000537  Lock_time: 0.000010  Rows_sent: 9  Rows_examined: 95
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522924;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18259  Schema: isucondition  QC_hit: No
+# Query_time: 0.000501  Lock_time: 0.000016  Rows_sent: 7  Rows_examined: 95
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522924;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18294  Schema: isucondition  QC_hit: No
+# Query_time: 0.001373  Lock_time: 0.000017  Rows_sent: 1  Rows_examined: 95
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522924;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18305  Schema: isucondition  QC_hit: No
+# Query_time: 0.000408  Lock_time: 0.000009  Rows_sent: 6  Rows_examined: 96
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522924;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18310  Schema: isucondition  QC_hit: No
+# Query_time: 0.000470  Lock_time: 0.000009  Rows_sent: 1  Rows_examined: 96
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522924;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# Time: 210821 14:15:25
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18302  Schema: isucondition  QC_hit: No
+# Query_time: 0.000627  Lock_time: 0.000008  Rows_sent: 7  Rows_examined: 96
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18323  Schema: isucondition  QC_hit: No
+# Query_time: 0.000992  Lock_time: 0.000010  Rows_sent: 4  Rows_examined: 97
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18322  Schema: isucondition  QC_hit: No
+# Query_time: 0.000468  Lock_time: 0.000016  Rows_sent: 2  Rows_examined: 97
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18316  Schema: isucondition  QC_hit: No
+# Query_time: 0.002050  Lock_time: 0.000021  Rows_sent: 3  Rows_examined: 97
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18315  Schema: isucondition  QC_hit: No
+# Query_time: 0.000465  Lock_time: 0.000016  Rows_sent: 1  Rows_examined: 97
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18244  Schema: isucondition  QC_hit: No
+# Query_time: 0.000500  Lock_time: 0.000017  Rows_sent: 6  Rows_examined: 97
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18339  Schema: isucondition  QC_hit: No
+# Query_time: 0.000660  Lock_time: 0.000007  Rows_sent: 7  Rows_examined: 97
+# Rows_affected: 0  Bytes_sent: 168889
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'tender_kapitsa' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18341  Schema: isucondition  QC_hit: No
+# Query_time: 0.000566  Lock_time: 0.000010  Rows_sent: 7  Rows_examined: 98
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18368  Schema: isucondition  QC_hit: No
+# Query_time: 0.000581  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 98
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18348  Schema: isucondition  QC_hit: No
+# Query_time: 0.000951  Lock_time: 0.000012  Rows_sent: 9  Rows_examined: 98
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18370  Schema: isucondition  QC_hit: No
+# Query_time: 0.000551  Lock_time: 0.000012  Rows_sent: 6  Rows_examined: 98
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18369  Schema: isucondition  QC_hit: No
+# Query_time: 0.000431  Lock_time: 0.000011  Rows_sent: 4  Rows_examined: 100
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18374  Schema: isucondition  QC_hit: No
+# Query_time: 0.000526  Lock_time: 0.000029  Rows_sent: 2  Rows_examined: 100
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18392  Schema: isucondition  QC_hit: No
+# Query_time: 0.001944  Lock_time: 0.000014  Rows_sent: 9  Rows_examined: 100
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18390  Schema: isucondition  QC_hit: No
+# Query_time: 0.001749  Lock_time: 0.000030  Rows_sent: 7  Rows_examined: 100
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18377  Schema: isucondition  QC_hit: No
+# Query_time: 0.000630  Lock_time: 0.000009  Rows_sent: 1  Rows_examined: 100
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18391  Schema: isucondition  QC_hit: No
+# Query_time: 0.001462  Lock_time: 0.000009  Rows_sent: 3  Rows_examined: 100
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18412  Schema: isucondition  QC_hit: No
+# Query_time: 0.000938  Lock_time: 0.000010  Rows_sent: 7  Rows_examined: 100
+# Rows_affected: 0  Bytes_sent: 168889
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'tender_kapitsa' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18377  Schema: isucondition  QC_hit: No
+# Query_time: 0.001199  Lock_time: 0.000012  Rows_sent: 7  Rows_examined: 101
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18415  Schema: isucondition  QC_hit: No
+# Query_time: 0.001025  Lock_time: 0.000008  Rows_sent: 6  Rows_examined: 101
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18420  Schema: isucondition  QC_hit: No
+# Query_time: 0.000682  Lock_time: 0.000008  Rows_sent: 4  Rows_examined: 101
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18417  Schema: isucondition  QC_hit: No
+# Query_time: 0.000465  Lock_time: 0.000012  Rows_sent: 2  Rows_examined: 101
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18421  Schema: isucondition  QC_hit: No
+# Query_time: 0.000562  Lock_time: 0.000010  Rows_sent: 9  Rows_examined: 101
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18403  Schema: isucondition  QC_hit: No
+# Query_time: 0.000722  Lock_time: 0.000012  Rows_sent: 6  Rows_examined: 101
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18377  Schema: isucondition  QC_hit: No
+# Query_time: 0.000612  Lock_time: 0.000014  Rows_sent: 9  Rows_examined: 101
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18426  Schema: isucondition  QC_hit: No
+# Query_time: 0.000476  Lock_time: 0.000009  Rows_sent: 3  Rows_examined: 101
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18435  Schema: isucondition  QC_hit: No
+# Query_time: 0.000646  Lock_time: 0.000007  Rows_sent: 7  Rows_examined: 101
+# Rows_affected: 0  Bytes_sent: 168889
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'tender_kapitsa' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18420  Schema: isucondition  QC_hit: No
+# Query_time: 0.000643  Lock_time: 0.000011  Rows_sent: 9  Rows_examined: 103
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18451  Schema: isucondition  QC_hit: No
+# Query_time: 0.000944  Lock_time: 0.000025  Rows_sent: 1  Rows_examined: 103
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18440  Schema: isucondition  QC_hit: No
+# Query_time: 0.000706  Lock_time: 0.000010  Rows_sent: 2  Rows_examined: 103
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18434  Schema: isucondition  QC_hit: No
+# Query_time: 0.001258  Lock_time: 0.000011  Rows_sent: 6  Rows_examined: 103
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18455  Schema: isucondition  QC_hit: No
+# Query_time: 0.000515  Lock_time: 0.000009  Rows_sent: 7  Rows_examined: 103
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18444  Schema: isucondition  QC_hit: No
+# Query_time: 0.000473  Lock_time: 0.000007  Rows_sent: 4  Rows_examined: 103
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18434  Schema: isucondition  QC_hit: No
+# Query_time: 0.001130  Lock_time: 0.000023  Rows_sent: 7  Rows_examined: 103
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18440  Schema: isucondition  QC_hit: No
+# Query_time: 0.000486  Lock_time: 0.000010  Rows_sent: 3  Rows_examined: 103
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18453  Schema: isucondition  QC_hit: No
+# Query_time: 0.000596  Lock_time: 0.000010  Rows_sent: 6  Rows_examined: 103
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18464  Schema: isucondition  QC_hit: No
+# Query_time: 0.000514  Lock_time: 0.000028  Rows_sent: 9  Rows_examined: 103
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18479  Schema: isucondition  QC_hit: No
+# Query_time: 0.000567  Lock_time: 0.000018  Rows_sent: 1  Rows_examined: 105
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18480  Schema: isucondition  QC_hit: No
+# Query_time: 0.000548  Lock_time: 0.000010  Rows_sent: 0  Rows_examined: 106
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'sharp_golick' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18489  Schema: isucondition  QC_hit: No
+# Query_time: 0.000717  Lock_time: 0.000012  Rows_sent: 9  Rows_examined: 106
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18500  Schema: isucondition  QC_hit: No
+# Query_time: 0.000607  Lock_time: 0.000008  Rows_sent: 7  Rows_examined: 106
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18489  Schema: isucondition  QC_hit: No
+# Query_time: 0.000647  Lock_time: 0.000010  Rows_sent: 6  Rows_examined: 106
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18499  Schema: isucondition  QC_hit: No
+# Query_time: 0.000612  Lock_time: 0.000012  Rows_sent: 4  Rows_examined: 106
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18447  Schema: isucondition  QC_hit: No
+# Query_time: 0.000681  Lock_time: 0.000008  Rows_sent: 6  Rows_examined: 106
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18510  Schema: isucondition  QC_hit: No
+# Query_time: 0.000670  Lock_time: 0.000011  Rows_sent: 7  Rows_examined: 106
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18539  Schema: isucondition  QC_hit: No
+# Query_time: 0.002125  Lock_time: 0.000006  Rows_sent: 2  Rows_examined: 109
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18525  Schema: isucondition  QC_hit: No
+# Query_time: 0.000828  Lock_time: 0.000008  Rows_sent: 3  Rows_examined: 109
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18479  Schema: isucondition  QC_hit: No
+# Query_time: 0.000706  Lock_time: 0.000009  Rows_sent: 7  Rows_examined: 109
+# Rows_affected: 0  Bytes_sent: 168889
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'tender_kapitsa' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18529  Schema: isucondition  QC_hit: No
+# Query_time: 0.000670  Lock_time: 0.000009  Rows_sent: 1  Rows_examined: 109
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18546  Schema: isucondition  QC_hit: No
+# Query_time: 0.000563  Lock_time: 0.000014  Rows_sent: 4  Rows_examined: 109
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18542  Schema: isucondition  QC_hit: No
+# Query_time: 0.000731  Lock_time: 0.000029  Rows_sent: 7  Rows_examined: 109
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18554  Schema: isucondition  QC_hit: No
+# Query_time: 0.000672  Lock_time: 0.000018  Rows_sent: 9  Rows_examined: 109
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18557  Schema: isucondition  QC_hit: No
+# Query_time: 0.000548  Lock_time: 0.000010  Rows_sent: 6  Rows_examined: 109
+# Rows_affected: 0  Bytes_sent: 172834
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'happy_feynman' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18571  Schema: isucondition  QC_hit: No
+# Query_time: 0.002446  Lock_time: 0.000014  Rows_sent: 3  Rows_examined: 111
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18595  Schema: isucondition  QC_hit: No
+# Query_time: 0.000684  Lock_time: 0.000046  Rows_sent: 2  Rows_examined: 111
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18593  Schema: isucondition  QC_hit: No
+# Query_time: 0.001637  Lock_time: 0.000016  Rows_sent: 7  Rows_examined: 111
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18600  Schema: isucondition  QC_hit: No
+# Query_time: 0.001108  Lock_time: 0.000007  Rows_sent: 6  Rows_examined: 111
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18624  Schema: isucondition  QC_hit: No
+# Query_time: 0.000635  Lock_time: 0.000015  Rows_sent: 1  Rows_examined: 111
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18596  Schema: isucondition  QC_hit: No
+# Query_time: 0.000628  Lock_time: 0.000008  Rows_sent: 9  Rows_examined: 112
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18647  Schema: isucondition  QC_hit: No
+# Query_time: 0.000664  Lock_time: 0.000010  Rows_sent: 7  Rows_examined: 112
+# Rows_affected: 0  Bytes_sent: 168889
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'tender_kapitsa' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18644  Schema: isucondition  QC_hit: No
+# Query_time: 0.001531  Lock_time: 0.000013  Rows_sent: 4  Rows_examined: 112
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18655  Schema: isucondition  QC_hit: No
+# Query_time: 0.000697  Lock_time: 0.000036  Rows_sent: 6  Rows_examined: 113
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18636  Schema: isucondition  QC_hit: No
+# Query_time: 0.003266  Lock_time: 0.000010  Rows_sent: 6  Rows_examined: 113
+# Rows_affected: 0  Bytes_sent: 172834
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'happy_feynman' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18665  Schema: isucondition  QC_hit: No
+# Query_time: 0.002932  Lock_time: 0.000009  Rows_sent: 9  Rows_examined: 113
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18674  Schema: isucondition  QC_hit: No
+# Query_time: 0.000774  Lock_time: 0.000026  Rows_sent: 3  Rows_examined: 113
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18680  Schema: isucondition  QC_hit: No
+# Query_time: 0.001148  Lock_time: 0.000008  Rows_sent: 7  Rows_examined: 113
+# Rows_affected: 0  Bytes_sent: 167117
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'sharp_snyder' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18663  Schema: isucondition  QC_hit: No
+# Query_time: 0.002333  Lock_time: 0.000258  Rows_sent: 7  Rows_examined: 113
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18692  Schema: isucondition  QC_hit: No
+# Query_time: 0.001089  Lock_time: 0.000031  Rows_sent: 2  Rows_examined: 113
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18691  Schema: isucondition  QC_hit: No
+# Query_time: 0.000828  Lock_time: 0.000015  Rows_sent: 6  Rows_examined: 113
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18697  Schema: isucondition  QC_hit: No
+# Query_time: 0.000764  Lock_time: 0.000010  Rows_sent: 8  Rows_examined: 113
+# Rows_affected: 0  Bytes_sent: 200937
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'wonderful_gould' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18710  Schema: isucondition  QC_hit: No
+# Query_time: 0.000494  Lock_time: 0.000011  Rows_sent: 1  Rows_examined: 113
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18715  Schema: isucondition  QC_hit: No
+# Query_time: 0.000478  Lock_time: 0.000012  Rows_sent: 9  Rows_examined: 113
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18718  Schema: isucondition  QC_hit: No
+# Query_time: 0.000780  Lock_time: 0.000007  Rows_sent: 7  Rows_examined: 113
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18714  Schema: isucondition  QC_hit: No
+# Query_time: 0.000579  Lock_time: 0.000010  Rows_sent: 4  Rows_examined: 113
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522925;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# Time: 210821 14:15:26
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18725  Schema: isucondition  QC_hit: No
+# Query_time: 0.000696  Lock_time: 0.000011  Rows_sent: 7  Rows_examined: 113
+# Rows_affected: 0  Bytes_sent: 168889
+SET timestamp=1629522926;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'tender_kapitsa' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 18920  Schema: isucondition  QC_hit: No
+# Query_time: 0.000622  Lock_time: 0.000011  Rows_sent: 0  Rows_examined: 113
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522926;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'sharp_golick' ORDER BY `id` DESC;
+# Time: 210821 14:15:29
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20009  Schema: isucondition  QC_hit: No
+# Query_time: 0.000739  Lock_time: 0.000011  Rows_sent: 0  Rows_examined: 113
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522929;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'blissful_diffie' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20048  Schema: isucondition  QC_hit: No
+# Query_time: 0.000855  Lock_time: 0.000009  Rows_sent: 0  Rows_examined: 113
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522929;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'stoic_galois' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20055  Schema: isucondition  QC_hit: No
+# Query_time: 0.000698  Lock_time: 0.000013  Rows_sent: 0  Rows_examined: 113
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522929;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'naughty_herschel' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20052  Schema: isucondition  QC_hit: No
+# Query_time: 0.000632  Lock_time: 0.000008  Rows_sent: 2  Rows_examined: 113
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522929;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20030  Schema: isucondition  QC_hit: No
+# Query_time: 0.001254  Lock_time: 0.000013  Rows_sent: 0  Rows_examined: 113
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522929;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'infallible_hertz' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20060  Schema: isucondition  QC_hit: No
+# Query_time: 0.000488  Lock_time: 0.000012  Rows_sent: 0  Rows_examined: 113
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522929;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'interesting_ganguly' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20059  Schema: isucondition  QC_hit: No
+# Query_time: 0.000497  Lock_time: 0.000009  Rows_sent: 1  Rows_examined: 113
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522929;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20045  Schema: isucondition  QC_hit: No
+# Query_time: 0.000675  Lock_time: 0.000016  Rows_sent: 3  Rows_examined: 114
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522929;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20061  Schema: isucondition  QC_hit: No
+# Query_time: 0.000662  Lock_time: 0.000014  Rows_sent: 8  Rows_examined: 114
+# Rows_affected: 0  Bytes_sent: 200937
+SET timestamp=1629522929;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'wonderful_gould' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20047  Schema: isucondition  QC_hit: No
+# Query_time: 0.000726  Lock_time: 0.000007  Rows_sent: 7  Rows_examined: 115
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522929;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20055  Schema: isucondition  QC_hit: No
+# Query_time: 0.000687  Lock_time: 0.000009  Rows_sent: 4  Rows_examined: 115
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522929;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20072  Schema: isucondition  QC_hit: No
+# Query_time: 0.000737  Lock_time: 0.000009  Rows_sent: 6  Rows_examined: 118
+# Rows_affected: 0  Bytes_sent: 172834
+SET timestamp=1629522929;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'happy_feynman' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20063  Schema: isucondition  QC_hit: No
+# Query_time: 0.000561  Lock_time: 0.000009  Rows_sent: 2  Rows_examined: 119
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522929;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20070  Schema: isucondition  QC_hit: No
+# Query_time: 0.000745  Lock_time: 0.000049  Rows_sent: 1  Rows_examined: 119
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522929;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# Time: 210821 14:15:30
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20081  Schema: isucondition  QC_hit: No
+# Query_time: 0.000770  Lock_time: 0.000009  Rows_sent: 9  Rows_examined: 119
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20081  Schema: isucondition  QC_hit: No
+# Query_time: 0.000687  Lock_time: 0.000008  Rows_sent: 7  Rows_examined: 119
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20078  Schema: isucondition  QC_hit: No
+# Query_time: 0.000773  Lock_time: 0.000024  Rows_sent: 6  Rows_examined: 119
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20068  Schema: isucondition  QC_hit: No
+# Query_time: 0.000733  Lock_time: 0.000009  Rows_sent: 3  Rows_examined: 119
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20077  Schema: isucondition  QC_hit: No
+# Query_time: 0.000706  Lock_time: 0.000010  Rows_sent: 9  Rows_examined: 119
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20076  Schema: isucondition  QC_hit: No
+# Query_time: 0.000674  Lock_time: 0.000007  Rows_sent: 6  Rows_examined: 119
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20073  Schema: isucondition  QC_hit: No
+# Query_time: 0.000767  Lock_time: 0.000009  Rows_sent: 2  Rows_examined: 120
+# Rows_affected: 0  Bytes_sent: 105730
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'stoic_galois' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20087  Schema: isucondition  QC_hit: No
+# Query_time: 0.000762  Lock_time: 0.000008  Rows_sent: 7  Rows_examined: 120
+# Rows_affected: 0  Bytes_sent: 168889
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'tender_kapitsa' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20090  Schema: isucondition  QC_hit: No
+# Query_time: 0.000612  Lock_time: 0.000008  Rows_sent: 8  Rows_examined: 120
+# Rows_affected: 0  Bytes_sent: 200937
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'wonderful_gould' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20095  Schema: isucondition  QC_hit: No
+# Query_time: 0.000672  Lock_time: 0.000010  Rows_sent: 1  Rows_examined: 124
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20095  Schema: isucondition  QC_hit: No
+# Query_time: 0.000739  Lock_time: 0.000008  Rows_sent: 7  Rows_examined: 124
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20104  Schema: isucondition  QC_hit: No
+# Query_time: 0.000717  Lock_time: 0.000014  Rows_sent: 9  Rows_examined: 124
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20099  Schema: isucondition  QC_hit: No
+# Query_time: 0.000652  Lock_time: 0.000007  Rows_sent: 3  Rows_examined: 124
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20046  Schema: isucondition  QC_hit: No
+# Query_time: 0.000830  Lock_time: 0.000010  Rows_sent: 6  Rows_examined: 124
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20085  Schema: isucondition  QC_hit: No
+# Query_time: 0.000676  Lock_time: 0.000017  Rows_sent: 2  Rows_examined: 124
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20091  Schema: isucondition  QC_hit: No
+# Query_time: 0.000731  Lock_time: 0.000009  Rows_sent: 7  Rows_examined: 124
+# Rows_affected: 0  Bytes_sent: 167117
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'sharp_snyder' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20086  Schema: isucondition  QC_hit: No
+# Query_time: 0.000921  Lock_time: 0.000016  Rows_sent: 4  Rows_examined: 124
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20104  Schema: isucondition  QC_hit: No
+# Query_time: 0.000796  Lock_time: 0.000009  Rows_sent: 3  Rows_examined: 124
+# Rows_affected: 0  Bytes_sent: 111321
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'blissful_diffie' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20097  Schema: isucondition  QC_hit: No
+# Query_time: 0.000823  Lock_time: 0.000009  Rows_sent: 2  Rows_examined: 124
+# Rows_affected: 0  Bytes_sent: 105730
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'stoic_galois' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20102  Schema: isucondition  QC_hit: No
+# Query_time: 0.000703  Lock_time: 0.000011  Rows_sent: 6  Rows_examined: 124
+# Rows_affected: 0  Bytes_sent: 172834
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'happy_feynman' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20096  Schema: isucondition  QC_hit: No
+# Query_time: 0.001072  Lock_time: 0.000010  Rows_sent: 7  Rows_examined: 124
+# Rows_affected: 0  Bytes_sent: 168889
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'tender_kapitsa' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20109  Schema: isucondition  QC_hit: No
+# Query_time: 0.000606  Lock_time: 0.000009  Rows_sent: 3  Rows_examined: 125
+# Rows_affected: 0  Bytes_sent: 111321
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'blissful_diffie' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20111  Schema: isucondition  QC_hit: No
+# Query_time: 0.000922  Lock_time: 0.000009  Rows_sent: 7  Rows_examined: 126
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20109  Schema: isucondition  QC_hit: No
+# Query_time: 0.000715  Lock_time: 0.000011  Rows_sent: 1  Rows_examined: 127
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20090  Schema: isucondition  QC_hit: No
+# Query_time: 0.003902  Lock_time: 0.000012  Rows_sent: 7  Rows_examined: 126
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20127  Schema: isucondition  QC_hit: No
+# Query_time: 0.000773  Lock_time: 0.000010  Rows_sent: 2  Rows_examined: 127
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20119  Schema: isucondition  QC_hit: No
+# Query_time: 0.000853  Lock_time: 0.000012  Rows_sent: 8  Rows_examined: 127
+# Rows_affected: 0  Bytes_sent: 200937
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'wonderful_gould' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20122  Schema: isucondition  QC_hit: No
+# Query_time: 0.002690  Lock_time: 0.000010  Rows_sent: 7  Rows_examined: 127
+# Rows_affected: 0  Bytes_sent: 167117
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'sharp_snyder' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20141  Schema: isucondition  QC_hit: No
+# Query_time: 0.000597  Lock_time: 0.000008  Rows_sent: 2  Rows_examined: 127
+# Rows_affected: 0  Bytes_sent: 105730
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'stoic_galois' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20129  Schema: isucondition  QC_hit: No
+# Query_time: 0.000580  Lock_time: 0.000008  Rows_sent: 3  Rows_examined: 127
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20145  Schema: isucondition  QC_hit: No
+# Query_time: 0.000885  Lock_time: 0.000009  Rows_sent: 6  Rows_examined: 127
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20137  Schema: isucondition  QC_hit: No
+# Query_time: 0.000526  Lock_time: 0.000012  Rows_sent: 3  Rows_examined: 127
+# Rows_affected: 0  Bytes_sent: 53697
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'infallible_hertz' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20144  Schema: isucondition  QC_hit: No
+# Query_time: 0.000667  Lock_time: 0.000010  Rows_sent: 6  Rows_examined: 127
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20143  Schema: isucondition  QC_hit: No
+# Query_time: 0.001445  Lock_time: 0.000008  Rows_sent: 4  Rows_examined: 127
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20137  Schema: isucondition  QC_hit: No
+# Query_time: 0.002530  Lock_time: 0.000010  Rows_sent: 6  Rows_examined: 127
+# Rows_affected: 0  Bytes_sent: 172834
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'happy_feynman' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20139  Schema: isucondition  QC_hit: No
+# Query_time: 0.000821  Lock_time: 0.000015  Rows_sent: 0  Rows_examined: 127
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'sharp_golick' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20143  Schema: isucondition  QC_hit: No
+# Query_time: 0.000543  Lock_time: 0.000009  Rows_sent: 9  Rows_examined: 127
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20146  Schema: isucondition  QC_hit: No
+# Query_time: 0.000620  Lock_time: 0.000047  Rows_sent: 7  Rows_examined: 127
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20145  Schema: isucondition  QC_hit: No
+# Query_time: 0.000694  Lock_time: 0.000009  Rows_sent: 1  Rows_examined: 129
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20139  Schema: isucondition  QC_hit: No
+# Query_time: 0.001623  Lock_time: 0.000007  Rows_sent: 3  Rows_examined: 129
+# Rows_affected: 0  Bytes_sent: 111321
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'blissful_diffie' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20090  Schema: isucondition  QC_hit: No
+# Query_time: 0.000658  Lock_time: 0.000011  Rows_sent: 3  Rows_examined: 129
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20130  Schema: isucondition  QC_hit: No
+# Query_time: 0.000879  Lock_time: 0.000008  Rows_sent: 7  Rows_examined: 129
+# Rows_affected: 0  Bytes_sent: 168889
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'tender_kapitsa' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20135  Schema: isucondition  QC_hit: No
+# Query_time: 0.000615  Lock_time: 0.000012  Rows_sent: 4  Rows_examined: 129
+# Rows_affected: 0  Bytes_sent: 87891
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'naughty_herschel' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20145  Schema: isucondition  QC_hit: No
+# Query_time: 0.000576  Lock_time: 0.000010  Rows_sent: 6  Rows_examined: 129
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20145  Schema: isucondition  QC_hit: No
+# Query_time: 0.001092  Lock_time: 0.000010  Rows_sent: 7  Rows_examined: 129
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20144  Schema: isucondition  QC_hit: No
+# Query_time: 0.000798  Lock_time: 0.000009  Rows_sent: 7  Rows_examined: 129
+# Rows_affected: 0  Bytes_sent: 167117
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'sharp_snyder' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20162  Schema: isucondition  QC_hit: No
+# Query_time: 0.000742  Lock_time: 0.000009  Rows_sent: 9  Rows_examined: 129
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20148  Schema: isucondition  QC_hit: No
+# Query_time: 0.006140  Lock_time: 0.000020  Rows_sent: 2  Rows_examined: 129
+# Rows_affected: 0  Bytes_sent: 105730
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'stoic_galois' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20153  Schema: isucondition  QC_hit: No
+# Query_time: 0.000801  Lock_time: 0.000009  Rows_sent: 2  Rows_examined: 130
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20161  Schema: isucondition  QC_hit: No
+# Query_time: 0.000887  Lock_time: 0.000014  Rows_sent: 6  Rows_examined: 130
+# Rows_affected: 0  Bytes_sent: 172834
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'happy_feynman' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20149  Schema: isucondition  QC_hit: No
+# Query_time: 0.000549  Lock_time: 0.000021  Rows_sent: 3  Rows_examined: 130
+# Rows_affected: 0  Bytes_sent: 111321
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'blissful_diffie' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20144  Schema: isucondition  QC_hit: No
+# Query_time: 0.001101  Lock_time: 0.000009  Rows_sent: 3  Rows_examined: 130
+# Rows_affected: 0  Bytes_sent: 53697
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'infallible_hertz' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20157  Schema: isucondition  QC_hit: No
+# Query_time: 0.001886  Lock_time: 0.000009  Rows_sent: 3  Rows_examined: 130
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522930;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# Time: 210821 14:15:31
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20130  Schema: isucondition  QC_hit: No
+# Query_time: 0.000898  Lock_time: 0.000010  Rows_sent: 7  Rows_examined: 130
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20157  Schema: isucondition  QC_hit: No
+# Query_time: 0.000837  Lock_time: 0.000011  Rows_sent: 4  Rows_examined: 130
+# Rows_affected: 0  Bytes_sent: 87891
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'naughty_herschel' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20167  Schema: isucondition  QC_hit: No
+# Query_time: 0.000538  Lock_time: 0.000017  Rows_sent: 1  Rows_examined: 130
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20172  Schema: isucondition  QC_hit: No
+# Query_time: 0.000827  Lock_time: 0.000011  Rows_sent: 4  Rows_examined: 130
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20171  Schema: isucondition  QC_hit: No
+# Query_time: 0.000848  Lock_time: 0.000029  Rows_sent: 2  Rows_examined: 131
+# Rows_affected: 0  Bytes_sent: 105730
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'stoic_galois' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20175  Schema: isucondition  QC_hit: No
+# Query_time: 0.000806  Lock_time: 0.000014  Rows_sent: 6  Rows_examined: 131
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20166  Schema: isucondition  QC_hit: No
+# Query_time: 0.000553  Lock_time: 0.000011  Rows_sent: 9  Rows_examined: 131
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20183  Schema: isucondition  QC_hit: No
+# Query_time: 0.000542  Lock_time: 0.000008  Rows_sent: 3  Rows_examined: 131
+# Rows_affected: 0  Bytes_sent: 53697
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'infallible_hertz' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20184  Schema: isucondition  QC_hit: No
+# Query_time: 0.000720  Lock_time: 0.000009  Rows_sent: 7  Rows_examined: 131
+# Rows_affected: 0  Bytes_sent: 168889
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'tender_kapitsa' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20182  Schema: isucondition  QC_hit: No
+# Query_time: 0.000598  Lock_time: 0.000008  Rows_sent: 6  Rows_examined: 131
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20175  Schema: isucondition  QC_hit: No
+# Query_time: 0.000811  Lock_time: 0.000021  Rows_sent: 8  Rows_examined: 131
+# Rows_affected: 0  Bytes_sent: 200937
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'wonderful_gould' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20171  Schema: isucondition  QC_hit: No
+# Query_time: 0.001215  Lock_time: 0.000011  Rows_sent: 7  Rows_examined: 131
+# Rows_affected: 0  Bytes_sent: 167117
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'sharp_snyder' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20175  Schema: isucondition  QC_hit: No
+# Query_time: 0.000788  Lock_time: 0.000008  Rows_sent: 3  Rows_examined: 132
+# Rows_affected: 0  Bytes_sent: 111321
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'blissful_diffie' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20135  Schema: isucondition  QC_hit: No
+# Query_time: 0.003173  Lock_time: 0.000009  Rows_sent: 4  Rows_examined: 132
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20184  Schema: isucondition  QC_hit: No
+# Query_time: 0.003099  Lock_time: 0.000012  Rows_sent: 1  Rows_examined: 132
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20168  Schema: isucondition  QC_hit: No
+# Query_time: 0.000699  Lock_time: 0.000020  Rows_sent: 4  Rows_examined: 132
+# Rows_affected: 0  Bytes_sent: 87891
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'naughty_herschel' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20190  Schema: isucondition  QC_hit: No
+# Query_time: 0.000805  Lock_time: 0.000010  Rows_sent: 2  Rows_examined: 132
+# Rows_affected: 0  Bytes_sent: 105730
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'stoic_galois' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20192  Schema: isucondition  QC_hit: No
+# Query_time: 0.001175  Lock_time: 0.000589  Rows_sent: 3  Rows_examined: 132
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20174  Schema: isucondition  QC_hit: No
+# Query_time: 0.000922  Lock_time: 0.000023  Rows_sent: 9  Rows_examined: 132
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20217  Schema: isucondition  QC_hit: No
+# Query_time: 0.000888  Lock_time: 0.000016  Rows_sent: 7  Rows_examined: 132
+# Rows_affected: 0  Bytes_sent: 168889
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'tender_kapitsa' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20214  Schema: isucondition  QC_hit: No
+# Query_time: 0.002833  Lock_time: 0.000009  Rows_sent: 8  Rows_examined: 133
+# Rows_affected: 0  Bytes_sent: 200937
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'wonderful_gould' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20204  Schema: isucondition  QC_hit: No
+# Query_time: 0.000583  Lock_time: 0.000009  Rows_sent: 2  Rows_examined: 133
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20214  Schema: isucondition  QC_hit: No
+# Query_time: 0.000728  Lock_time: 0.000009  Rows_sent: 1  Rows_examined: 133
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20205  Schema: isucondition  QC_hit: No
+# Query_time: 0.000764  Lock_time: 0.000030  Rows_sent: 9  Rows_examined: 133
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20215  Schema: isucondition  QC_hit: No
+# Query_time: 0.001080  Lock_time: 0.000007  Rows_sent: 7  Rows_examined: 133
+# Rows_affected: 0  Bytes_sent: 167117
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'sharp_snyder' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20204  Schema: isucondition  QC_hit: No
+# Query_time: 0.000679  Lock_time: 0.000008  Rows_sent: 6  Rows_examined: 133
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20217  Schema: isucondition  QC_hit: No
+# Query_time: 0.000826  Lock_time: 0.000008  Rows_sent: 3  Rows_examined: 133
+# Rows_affected: 0  Bytes_sent: 53697
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'infallible_hertz' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20223  Schema: isucondition  QC_hit: No
+# Query_time: 0.000831  Lock_time: 0.000023  Rows_sent: 7  Rows_examined: 133
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20223  Schema: isucondition  QC_hit: No
+# Query_time: 0.001405  Lock_time: 0.000007  Rows_sent: 7  Rows_examined: 133
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20226  Schema: isucondition  QC_hit: No
+# Query_time: 0.000978  Lock_time: 0.000012  Rows_sent: 6  Rows_examined: 133
+# Rows_affected: 0  Bytes_sent: 172834
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'happy_feynman' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20224  Schema: isucondition  QC_hit: No
+# Query_time: 0.001064  Lock_time: 0.000010  Rows_sent: 4  Rows_examined: 133
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20205  Schema: isucondition  QC_hit: No
+# Query_time: 0.000613  Lock_time: 0.000008  Rows_sent: 3  Rows_examined: 133
+# Rows_affected: 0  Bytes_sent: 111321
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'blissful_diffie' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20231  Schema: isucondition  QC_hit: No
+# Query_time: 0.000957  Lock_time: 0.000017  Rows_sent: 4  Rows_examined: 133
+# Rows_affected: 0  Bytes_sent: 87891
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'naughty_herschel' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20225  Schema: isucondition  QC_hit: No
+# Query_time: 0.000625  Lock_time: 0.000008  Rows_sent: 2  Rows_examined: 133
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20219  Schema: isucondition  QC_hit: No
+# Query_time: 0.000962  Lock_time: 0.000009  Rows_sent: 9  Rows_examined: 133
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20249  Schema: isucondition  QC_hit: No
+# Query_time: 0.001874  Lock_time: 0.000009  Rows_sent: 6  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20247  Schema: isucondition  QC_hit: No
+# Query_time: 0.001259  Lock_time: 0.000011  Rows_sent: 3  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 53697
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'infallible_hertz' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20239  Schema: isucondition  QC_hit: No
+# Query_time: 0.000542  Lock_time: 0.000009  Rows_sent: 3  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20262  Schema: isucondition  QC_hit: No
+# Query_time: 0.001581  Lock_time: 0.000010  Rows_sent: 7  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 168889
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'tender_kapitsa' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20267  Schema: isucondition  QC_hit: No
+# Query_time: 0.000619  Lock_time: 0.000017  Rows_sent: 3  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 111321
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'blissful_diffie' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20239  Schema: isucondition  QC_hit: No
+# Query_time: 0.008037  Lock_time: 0.000009  Rows_sent: 7  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20266  Schema: isucondition  QC_hit: No
+# Query_time: 0.000808  Lock_time: 0.000010  Rows_sent: 8  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 200937
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'wonderful_gould' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20254  Schema: isucondition  QC_hit: No
+# Query_time: 0.000781  Lock_time: 0.000012  Rows_sent: 6  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20274  Schema: isucondition  QC_hit: No
+# Query_time: 0.000985  Lock_time: 0.000016  Rows_sent: 7  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20279  Schema: isucondition  QC_hit: No
+# Query_time: 0.000779  Lock_time: 0.000010  Rows_sent: 1  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20278  Schema: isucondition  QC_hit: No
+# Query_time: 0.001816  Lock_time: 0.000011  Rows_sent: 9  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 190040
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'interesting_ganguly' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20257  Schema: isucondition  QC_hit: No
+# Query_time: 0.001141  Lock_time: 0.000010  Rows_sent: 7  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 167117
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'sharp_snyder' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20280  Schema: isucondition  QC_hit: No
+# Query_time: 0.000701  Lock_time: 0.000040  Rows_sent: 0  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'sharp_golick' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20282  Schema: isucondition  QC_hit: No
+# Query_time: 0.000938  Lock_time: 0.000013  Rows_sent: 6  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 172834
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'happy_feynman' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20273  Schema: isucondition  QC_hit: No
+# Query_time: 0.000887  Lock_time: 0.000015  Rows_sent: 2  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 105730
+SET timestamp=1629522931;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'stoic_galois' ORDER BY `id` DESC;
+# Time: 210821 14:15:32
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20289  Schema: isucondition  QC_hit: No
+# Query_time: 0.002061  Lock_time: 0.000024  Rows_sent: 9  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522932;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20286  Schema: isucondition  QC_hit: No
+# Query_time: 0.001569  Lock_time: 0.000010  Rows_sent: 4  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522932;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20273  Schema: isucondition  QC_hit: No
+# Query_time: 0.001236  Lock_time: 0.000012  Rows_sent: 2  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522932;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20278  Schema: isucondition  QC_hit: No
+# Query_time: 0.001056  Lock_time: 0.000011  Rows_sent: 4  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 87891
+SET timestamp=1629522932;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'naughty_herschel' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20281  Schema: isucondition  QC_hit: No
+# Query_time: 0.001148  Lock_time: 0.000012  Rows_sent: 9  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522932;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# Time: 210821 14:15:35
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20730  Schema: isucondition  QC_hit: No
+# Query_time: 0.000708  Lock_time: 0.000009  Rows_sent: 0  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_shaw' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20743  Schema: isucondition  QC_hit: No
+# Query_time: 0.000671  Lock_time: 0.000024  Rows_sent: 0  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'nervous_ellis' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20717  Schema: isucondition  QC_hit: No
+# Query_time: 0.001006  Lock_time: 0.000010  Rows_sent: 0  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'determined_black' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20730  Schema: isucondition  QC_hit: No
+# Query_time: 0.001033  Lock_time: 0.000258  Rows_sent: 0  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'amazing_liskov' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20732  Schema: isucondition  QC_hit: No
+# Query_time: 0.000800  Lock_time: 0.000008  Rows_sent: 3  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20738  Schema: isucondition  QC_hit: No
+# Query_time: 0.000618  Lock_time: 0.000012  Rows_sent: 4  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 87891
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'naughty_herschel' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20741  Schema: isucondition  QC_hit: No
+# Query_time: 0.000521  Lock_time: 0.000017  Rows_sent: 0  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'quirky_poitras' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20745  Schema: isucondition  QC_hit: No
+# Query_time: 0.000439  Lock_time: 0.000008  Rows_sent: 0  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'recursing_cray' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20733  Schema: isucondition  QC_hit: No
+# Query_time: 0.000633  Lock_time: 0.000012  Rows_sent: 0  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'tender_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20717  Schema: isucondition  QC_hit: No
+# Query_time: 0.000993  Lock_time: 0.000009  Rows_sent: 9  Rows_examined: 134
+# Rows_affected: 0  Bytes_sent: 190040
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'interesting_ganguly' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20730  Schema: isucondition  QC_hit: No
+# Query_time: 0.001842  Lock_time: 0.000009  Rows_sent: 1  Rows_examined: 136
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20723  Schema: isucondition  QC_hit: No
+# Query_time: 0.000790  Lock_time: 0.000015  Rows_sent: 7  Rows_examined: 137
+# Rows_affected: 0  Bytes_sent: 168889
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'tender_kapitsa' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20743  Schema: isucondition  QC_hit: No
+# Query_time: 0.000839  Lock_time: 0.000008  Rows_sent: 8  Rows_examined: 138
+# Rows_affected: 0  Bytes_sent: 200937
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'wonderful_gould' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20740  Schema: isucondition  QC_hit: No
+# Query_time: 0.000923  Lock_time: 0.000009  Rows_sent: 6  Rows_examined: 139
+# Rows_affected: 0  Bytes_sent: 172834
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'happy_feynman' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20744  Schema: isucondition  QC_hit: No
+# Query_time: 0.000858  Lock_time: 0.000010  Rows_sent: 9  Rows_examined: 139
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20732  Schema: isucondition  QC_hit: No
+# Query_time: 0.001180  Lock_time: 0.000015  Rows_sent: 7  Rows_examined: 140
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20742  Schema: isucondition  QC_hit: No
+# Query_time: 0.002138  Lock_time: 0.000009  Rows_sent: 1  Rows_examined: 140
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20718  Schema: isucondition  QC_hit: No
+# Query_time: 0.001671  Lock_time: 0.000022  Rows_sent: 1  Rows_examined: 140
+# Rows_affected: 0  Bytes_sent: 16149
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'nervous_ellis' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20757  Schema: isucondition  QC_hit: No
+# Query_time: 0.004615  Lock_time: 0.000009  Rows_sent: 1  Rows_examined: 142
+# Rows_affected: 0  Bytes_sent: 16149
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'nervous_ellis' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20762  Schema: isucondition  QC_hit: No
+# Query_time: 0.002517  Lock_time: 0.000010  Rows_sent: 1  Rows_examined: 142
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20768  Schema: isucondition  QC_hit: No
+# Query_time: 0.000825  Lock_time: 0.000106  Rows_sent: 3  Rows_examined: 143
+# Rows_affected: 0  Bytes_sent: 111321
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'blissful_diffie' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20771  Schema: isucondition  QC_hit: No
+# Query_time: 0.000912  Lock_time: 0.000009  Rows_sent: 1  Rows_examined: 144
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20727  Schema: isucondition  QC_hit: No
+# Query_time: 0.000752  Lock_time: 0.000009  Rows_sent: 4  Rows_examined: 144
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20718  Schema: isucondition  QC_hit: No
+# Query_time: 0.000757  Lock_time: 0.000010  Rows_sent: 2  Rows_examined: 144
+# Rows_affected: 0  Bytes_sent: 105730
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'stoic_galois' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20782  Schema: isucondition  QC_hit: No
+# Query_time: 0.000996  Lock_time: 0.000010  Rows_sent: 4  Rows_examined: 145
+# Rows_affected: 0  Bytes_sent: 87891
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'naughty_herschel' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20780  Schema: isucondition  QC_hit: No
+# Query_time: 0.001144  Lock_time: 0.000008  Rows_sent: 6  Rows_examined: 146
+# Rows_affected: 0  Bytes_sent: 98588
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'laughing_rubin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20783  Schema: isucondition  QC_hit: No
+# Query_time: 0.000745  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 147
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20804  Schema: isucondition  QC_hit: No
+# Query_time: 0.000858  Lock_time: 0.000009  Rows_sent: 6  Rows_examined: 147
+# Rows_affected: 0  Bytes_sent: 172834
+SET timestamp=1629522935;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'happy_feynman' ORDER BY `id` DESC;
+# Time: 210821 14:15:36
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20799  Schema: isucondition  QC_hit: No
+# Query_time: 0.000894  Lock_time: 0.000011  Rows_sent: 3  Rows_examined: 148
+# Rows_affected: 0  Bytes_sent: 111321
+SET timestamp=1629522936;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'blissful_diffie' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20794  Schema: isucondition  QC_hit: No
+# Query_time: 0.000946  Lock_time: 0.000008  Rows_sent: 8  Rows_examined: 148
+# Rows_affected: 0  Bytes_sent: 200937
+SET timestamp=1629522936;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'wonderful_gould' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20795  Schema: isucondition  QC_hit: No
+# Query_time: 0.001201  Lock_time: 0.000011  Rows_sent: 1  Rows_examined: 149
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522936;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20795  Schema: isucondition  QC_hit: No
+# Query_time: 0.001613  Lock_time: 0.000014  Rows_sent: 7  Rows_examined: 149
+# Rows_affected: 0  Bytes_sent: 157730
+SET timestamp=1629522936;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'elated_einstein' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20805  Schema: isucondition  QC_hit: No
+# Query_time: 0.000753  Lock_time: 0.000026  Rows_sent: 2  Rows_examined: 150
+# Rows_affected: 0  Bytes_sent: 18542
+SET timestamp=1629522936;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'gifted_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20798  Schema: isucondition  QC_hit: No
+# Query_time: 0.000822  Lock_time: 0.000009  Rows_sent: 1  Rows_examined: 151
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522936;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20809  Schema: isucondition  QC_hit: No
+# Query_time: 0.001412  Lock_time: 0.000007  Rows_sent: 3  Rows_examined: 151
+# Rows_affected: 0  Bytes_sent: 53697
+SET timestamp=1629522936;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'infallible_hertz' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20798  Schema: isucondition  QC_hit: No
+# Query_time: 0.001231  Lock_time: 0.000022  Rows_sent: 7  Rows_examined: 151
+# Rows_affected: 0  Bytes_sent: 188167
+SET timestamp=1629522936;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20799  Schema: isucondition  QC_hit: No
+# Query_time: 0.001287  Lock_time: 0.000010  Rows_sent: 3  Rows_examined: 151
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522936;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20781  Schema: isucondition  QC_hit: No
+# Query_time: 0.001006  Lock_time: 0.000010  Rows_sent: 1  Rows_examined: 152
+# Rows_affected: 0  Bytes_sent: 16149
+SET timestamp=1629522936;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'nervous_ellis' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20810  Schema: isucondition  QC_hit: No
+# Query_time: 0.000740  Lock_time: 0.000010  Rows_sent: 6  Rows_examined: 152
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522936;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20816  Schema: isucondition  QC_hit: No
+# Query_time: 0.000866  Lock_time: 0.000194  Rows_sent: 1  Rows_examined: 153
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522936;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20803  Schema: isucondition  QC_hit: No
+# Query_time: 0.001663  Lock_time: 0.000010  Rows_sent: 7  Rows_examined: 156
+# Rows_affected: 0  Bytes_sent: 168889
+SET timestamp=1629522936;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'tender_kapitsa' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20796  Schema: isucondition  QC_hit: No
+# Query_time: 0.001140  Lock_time: 0.000021  Rows_sent: 9  Rows_examined: 156
+# Rows_affected: 0  Bytes_sent: 167899
+SET timestamp=1629522936;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'reverent_rhodes' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20809  Schema: isucondition  QC_hit: No
+# Query_time: 0.002390  Lock_time: 0.000011  Rows_sent: 1  Rows_examined: 156
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522936;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20819  Schema: isucondition  QC_hit: No
+# Query_time: 0.000962  Lock_time: 0.000015  Rows_sent: 9  Rows_examined: 156
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522936;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20816  Schema: isucondition  QC_hit: No
+# Query_time: 0.000950  Lock_time: 0.000017  Rows_sent: 9  Rows_examined: 156
+# Rows_affected: 0  Bytes_sent: 190040
+SET timestamp=1629522936;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'interesting_ganguly' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20805  Schema: isucondition  QC_hit: No
+# Query_time: 0.000829  Lock_time: 0.000022  Rows_sent: 0  Rows_examined: 157
+# Rows_affected: 0  Bytes_sent: 501
+SET timestamp=1629522936;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'sharp_golick' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20795  Schema: isucondition  QC_hit: No
+# Query_time: 0.001014  Lock_time: 0.000008  Rows_sent: 2  Rows_examined: 157
+# Rows_affected: 0  Bytes_sent: 105730
+SET timestamp=1629522936;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'stoic_galois' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20794  Schema: isucondition  QC_hit: No
+# Query_time: 0.000774  Lock_time: 0.000010  Rows_sent: 4  Rows_examined: 157
+# Rows_affected: 0  Bytes_sent: 101150
+SET timestamp=1629522936;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'quirky_poitras' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20781  Schema: isucondition  QC_hit: No
+# Query_time: 0.000923  Lock_time: 0.000012  Rows_sent: 3  Rows_examined: 157
+# Rows_affected: 0  Bytes_sent: 111321
+SET timestamp=1629522936;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'blissful_diffie' ORDER BY `id` DESC;
+# Time: 210821 14:15:37
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20781  Schema: isucondition  QC_hit: No
+# Query_time: 0.001281  Lock_time: 0.000009  Rows_sent: 3  Rows_examined: 158
+# Rows_affected: 0  Bytes_sent: 53697
+SET timestamp=1629522937;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'infallible_hertz' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20809  Schema: isucondition  QC_hit: No
+# Query_time: 0.002826  Lock_time: 0.000007  Rows_sent: 3  Rows_examined: 158
+# Rows_affected: 0  Bytes_sent: 64756
+SET timestamp=1629522937;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'jovial_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20808  Schema: isucondition  QC_hit: No
+# Query_time: 0.000848  Lock_time: 0.000010  Rows_sent: 4  Rows_examined: 159
+# Rows_affected: 0  Bytes_sent: 79111
+SET timestamp=1629522937;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'hardcore_lamport' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20819  Schema: isucondition  QC_hit: No
+# Query_time: 0.001013  Lock_time: 0.000019  Rows_sent: 4  Rows_examined: 160
+# Rows_affected: 0  Bytes_sent: 87891
+SET timestamp=1629522937;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'naughty_herschel' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20811  Schema: isucondition  QC_hit: No
+# Query_time: 0.001159  Lock_time: 0.000010  Rows_sent: 6  Rows_examined: 160
+# Rows_affected: 0  Bytes_sent: 72640
+SET timestamp=1629522937;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'fervent_proskuriakova' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20799  Schema: isucondition  QC_hit: No
+# Query_time: 0.000903  Lock_time: 0.000009  Rows_sent: 5  Rows_examined: 161
+# Rows_affected: 0  Bytes_sent: 124435
+SET timestamp=1629522937;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'tender_chaplygin' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20817  Schema: isucondition  QC_hit: No
+# Query_time: 0.001037  Lock_time: 0.000011  Rows_sent: 1  Rows_examined: 161
+# Rows_affected: 0  Bytes_sent: 16149
+SET timestamp=1629522937;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'nervous_ellis' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20794  Schema: isucondition  QC_hit: No
+# Query_time: 0.002707  Lock_time: 0.000009  Rows_sent: 1  Rows_examined: 161
+# Rows_affected: 0  Bytes_sent: 54993
+SET timestamp=1629522937;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'romantic_goldstine' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20781  Schema: isucondition  QC_hit: No
+# Query_time: 0.001130  Lock_time: 0.000030  Rows_sent: 7  Rows_examined: 161
+# Rows_affected: 0  Bytes_sent: 167117
+SET timestamp=1629522937;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'sharp_snyder' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20803  Schema: isucondition  QC_hit: No
+# Query_time: 0.000834  Lock_time: 0.000011  Rows_sent: 6  Rows_examined: 161
+# Rows_affected: 0  Bytes_sent: 70677
+SET timestamp=1629522937;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'recursing_cray' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20795  Schema: isucondition  QC_hit: No
+# Query_time: 0.000923  Lock_time: 0.000045  Rows_sent: 9  Rows_examined: 161
+# Rows_affected: 0  Bytes_sent: 164089
+SET timestamp=1629522937;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20829  Schema: isucondition  QC_hit: No
+# Query_time: 0.000738  Lock_time: 0.000010  Rows_sent: 6  Rows_examined: 161
+# Rows_affected: 0  Bytes_sent: 184632
+SET timestamp=1629522937;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'determined_black' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20811  Schema: isucondition  QC_hit: No
+# Query_time: 0.001093  Lock_time: 0.000008  Rows_sent: 9  Rows_examined: 162
+# Rows_affected: 0  Bytes_sent: 190040
+SET timestamp=1629522937;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'interesting_ganguly' ORDER BY `id` DESC;
+# Time: 210821 14:15:38
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20839  Schema: isucondition  QC_hit: No
+# Query_time: 0.133515  Lock_time: 0.000049  Rows_sent: 45034  Rows_examined: 90068
+# Rows_affected: 0  Bytes_sent: 8408116
+SET timestamp=1629522938;
+SELECT * FROM `isu_condition` ORDER BY `timestamp` ASC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 20839  Schema: isucondition  QC_hit: No
+# Query_time: 0.004295  Lock_time: 0.000045  Rows_sent: 163  Rows_examined: 163
+# Rows_affected: 0  Bytes_sent: 3706906
+SET timestamp=1629522938;
+SELECT * FROM `isu`;

@@ -1,0 +1,89 @@
+
+# 240ms user time, 20ms system time, 29.95M rss, 36.99M vsz
+# Current date: Sat Aug 21 05:16:46 2021
+# Hostname: ip-172-31-43-133
+# Files: /home/ubuntu/isucon11-qualify-util/log/0821051642-0608288/mysql/slow_query3.log
+# Overall: 440 total, 3 unique, 18.33 QPS, 0.02x concurrency _____________
+# Time range: 2021-08-21 14:15:14 to 14:15:38
+# Attribute          total     min     max     avg     95%  stddev  median
+# ============     ======= ======= ======= ======= ======= ======= =======
+# Exec time          527ms   186us   134ms     1ms     2ms     6ms   690us
+# Lock time            8ms     6us   589us    17us    33us    35us    10us
+# Rows sent         46.23k       0  43.98k  107.59    8.91   2.02k    5.75
+# Rows examine     134.13k      28  87.96k  312.17  151.03   3.99k  102.22
+# Rows affecte           0       0       0       0       0       0       0
+# Bytes sent        54.77M     501   8.02M 127.47k 182.98k 407.93k  92.42k
+# Query size        33.28k      19      84   77.44   80.10    4.49   76.28
+
+# Profile
+# Rank Query ID                        Response time Calls R/Call V/M   It
+# ==== =============================== ============= ===== ====== ===== ==
+#    1 0x20183D6FD015A9A0A6C4FB46B2...  0.3892 73.9%   438 0.0009  0.00 SELECT isu
+#    2 0xCA28F73C36B59E2D8A1F1907B5...  0.1335 25.3%     1 0.1335  0.00 SELECT isu_condition
+# MISC 0xMISC                           0.0043  0.8%     1 0.0043   0.0 <1 ITEMS>
+
+# Query 1: 19.04 QPS, 0.02x concurrency, ID 0x20183D6FD015A9A0A6C4FB46B2683CF0 at byte 125628
+# This item is included in the report because it matches --limit.
+# Scores: V/M = 0.00
+# Time range: 2021-08-21 14:15:14 to 14:15:37
+# Attribute    pct   total     min     max     avg     95%  stddev  median
+# ============ === ======= ======= ======= ======= ======= ======= =======
+# Count         99     438
+# Exec time     73   389ms   186us     8ms   888us     2ms   680us   690us
+# Lock time     98     7ms     6us   589us    17us    31us    35us    10us
+# Rows sent      4   2.09k       0       9    4.89    8.91    2.78    5.75
+# Rows examine  34  46.02k      28     162  107.59  151.03   26.89  102.22
+# Rows affecte   0       0       0       0       0       0       0       0
+# Bytes sent    78  43.22M     501 196.23k 101.04k 182.98k  58.33k  92.42k
+# Query size    99  33.21k      69      84   77.63   80.10    3.41   76.28
+# String:
+# Databases    isucondition
+# Hosts        isucondition-1.t.isucon.dev
+# Users        isucon
+# Query_time distribution
+#   1us
+#  10us
+# 100us  ################################################################
+#   1ms  ####################
+#  10ms
+# 100ms
+#    1s
+#  10s+
+# Tables
+#    SHOW TABLE STATUS FROM `isucondition` LIKE 'isu'\G
+#    SHOW CREATE TABLE `isucondition`.`isu`\G
+# EXPLAIN /*!50100 PARTITIONS*/
+SELECT * FROM `isu` WHERE `jia_user_id` = 'cool_jennings' ORDER BY `id` DESC\G
+
+# Query 2: 0 QPS, 0x concurrency, ID 0xCA28F73C36B59E2D8A1F1907B5F2A898 at byte 152526
+# This item is included in the report because it matches --limit.
+# Scores: V/M = 0.00
+# Time range: all events occurred at 2021-08-21 14:15:38
+# Attribute    pct   total     min     max     avg     95%  stddev  median
+# ============ === ======= ======= ======= ======= ======= ======= =======
+# Count          0       1
+# Exec time     25   134ms   134ms   134ms   134ms   134ms       0   134ms
+# Lock time      0    49us    49us    49us    49us    49us       0    49us
+# Rows sent     95  43.98k  43.98k  43.98k  43.98k  43.98k       0  43.98k
+# Rows examine  65  87.96k  87.96k  87.96k  87.96k  87.96k       0  87.96k
+# Rows affecte   0       0       0       0       0       0       0       0
+# Bytes sent    14   8.02M   8.02M   8.02M   8.02M   8.02M       0   8.02M
+# Query size     0      54      54      54      54      54       0      54
+# String:
+# Databases    isucondition
+# Hosts        isucondition-1.t.isucon.dev
+# Users        isucon
+# Query_time distribution
+#   1us
+#  10us
+# 100us
+#   1ms
+#  10ms
+# 100ms  ################################################################
+#    1s
+#  10s+
+# Tables
+#    SHOW TABLE STATUS FROM `isucondition` LIKE 'isu_condition'\G
+#    SHOW CREATE TABLE `isucondition`.`isu_condition`\G
+# EXPLAIN /*!50100 PARTITIONS*/
+SELECT * FROM `isu_condition` ORDER BY `timestamp` ASC\G
