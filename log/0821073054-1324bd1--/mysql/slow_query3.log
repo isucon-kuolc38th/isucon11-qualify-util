@@ -1,0 +1,177 @@
+# Time: 210821 16:29:27
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.001965  Lock_time: 0.000120  Rows_sent: 618  Rows_examined: 1236
+# Rows_affected: 0  Bytes_sent: 108301
+use isucondition;
+SET timestamp=1629530967;
+SELECT * FROM `isu_condition` ORDER BY `timestamp` ASC;
+# Time: 210821 16:29:31
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000323  Lock_time: 0.000015  Rows_sent: 5  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 65166
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'isucon1' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000181  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 14759
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `jia_user_id` = 'happy_haibt' ORDER BY `id` DESC;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000125  Lock_time: 0.000025  Rows_sent: 25  Rows_examined: 78
+# Rows_affected: 0  Bytes_sent: 519
+SET timestamp=1629530971;
+SELECT `character` FROM `isu` GROUP BY `character`;
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000570  Lock_time: 0.000008  Rows_sent: 4  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 63959
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'いじっぱり';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000159  Lock_time: 0.000007  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 8607
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'うっかりや';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000195  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 21493
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'おくびょう';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000175  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 10071
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'おだやか';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000167  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 15175
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'おっとり';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000207  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 24273
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'おとなしい';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000209  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 26954
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'がんばりや';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000211  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 20477
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'きまぐれ';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000170  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 12144
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'さみしがり';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000210  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 24103
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'しんちょう';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000194  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 16842
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'すなお';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000294  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 8910
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'ずぶとい';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000294  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 14600
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'せっかち';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000339  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 19164
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'てれや';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000216  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 45808
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'なまいき';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000144  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 5568
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'のうてんき';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000189  Lock_time: 0.000007  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 26388
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'のんき';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000203  Lock_time: 0.000015  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 21128
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'ひかえめ';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000181  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 31267
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'まじめ';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000144  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 7345
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'むじゃき';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000441  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 91096
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'やんちゃ';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000814  Lock_time: 0.000009  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 135875
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'ゆうかん';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000449  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 83464
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'ようき';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000343  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 27582
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'れいせい';
+# User@Host: isucon[isucon] @ isucondition-1.t.isucon.dev [192.168.0.11]
+# Thread_id: 37  Schema: isucondition  QC_hit: No
+# Query_time: 0.000334  Lock_time: 0.000008  Rows_sent: 1  Rows_examined: 28
+# Rows_affected: 0  Bytes_sent: 28238
+SET timestamp=1629530971;
+SELECT * FROM `isu` WHERE `character` = 'わんぱく';

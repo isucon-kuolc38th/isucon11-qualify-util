@@ -1,0 +1,138 @@
+16:22:26.289606 ===> PREPARE
+16:22:31.778817 ===> LOAD
+16:22:31.778919 score: 0(0 - 0) : Score
+16:22:31.778923 deduction: 0 / timeout: 0
+16:22:32.615093 ERR: load: http: Get "https://54.199.41.247/api/isu/2550aa4a-95d8-4284-99d1-bf912b56ee25/icon": http2: client connection force closed via ClientConn.Close
+16:22:32.615116 ERR: load: http: Get "https://54.199.41.247/api/isu/4a9510da-3db1-4521-b8f2-5eb35759c3ab/icon": http2: client connection force closed via ClientConn.Close
+16:22:32.615206 ERR: load: http: Get "https://54.199.41.247/api/isu/579dc58f-10a9-4d2a-a781-5eecf200f4d4/icon": http2: client connection force closed via ClientConn.Close
+16:22:32.615299 ERR: load: http: Get "https://54.199.41.247/api/isu/cb62de39-7680-499e-94e2-c94ba799e66e/icon": http2: client connection force closed via ClientConn.Close
+16:22:32.615542 ERR: load: http: Get "https://54.199.41.247/api/isu/c4e4e68c-c918-48c5-8966-eb56a1828d06/icon": http2: client connection force closed via ClientConn.Close
+16:22:32.615571 ERR: load: http: http2: client connection force closed via ClientConn.Close
+16:22:32.615708 ERR: load: http: Get "https://54.199.41.247/api/isu": http2: client connection force closed via ClientConn.Close
+16:22:32.615777 ERR: load: http: Get "https://54.199.41.247/api/isu/3d47124d-7653-4a0d-a55b-36a017ce93d8/icon": http2: client connection force closed via ClientConn.Close
+16:22:32.615799 ERR: load: http: Get "https://54.199.41.247/api/isu/9a7e44ce-57bd-4ad1-bfc3-7014b99b6766/icon": http2: client connection force closed via ClientConn.Close
+16:22:32.615866 ERR: load: http: Get "https://54.199.41.247/api/isu/a699ad8a-8c43-4e6c-a0a8-84d799bf3869/icon": http2: client connection force closed via ClientConn.Close
+16:22:32.615878 ERR: load: http: Get "https://54.199.41.247/api/isu/a8a4094b-1a92-4259-8e6a-de9776fd042f/icon": http2: client connection force closed via ClientConn.Close
+16:22:34.098435 ERR: load: http: Get "https://54.199.41.247/api/isu": http2: client connection force closed via ClientConn.Close
+16:22:34.098707 ERR: load: http: Get "https://54.199.41.247/api/isu": http2: client connection force closed via ClientConn.Close
+16:22:34.098725 ERR: load: http: Get "https://54.199.41.247/api/isu": http2: client connection force closed via ClientConn.Close
+16:22:34.099045 ERR: load: http: Get "https://54.199.41.247/api/isu/dd389823-9646-4155-a034-dad9ea88477b/icon": http2: client connection force closed via ClientConn.Close
+16:22:34.377723 ERR: load: http: http2: client connection force closed via ClientConn.Close
+16:22:34.780395 score: 1232(1248 - 16) : pass
+16:22:34.780421 deduction: 16 / timeout: 0
+16:22:35.351123 ERR: load: http: Get "https://54.199.41.247/api/isu/1c60ec7e-10df-49d3-9c4e-1fdf12829d2e/icon": http2: client connection force closed via ClientConn.Close
+16:22:35.351144 ERR: load: http: Get "https://54.199.41.247/api/isu": http2: client connection force closed via ClientConn.Close
+16:22:35.351202 ERR: load: http: Get "https://54.199.41.247/api/isu/ccdef96c-a647-45c8-8244-c1bcf60fe419/icon": http2: client connection force closed via ClientConn.Close
+16:22:35.351241 ERR: load: http: Get "https://54.199.41.247/api/isu/140ba32d-3f17-449f-b241-5d5e7743d0c6/icon": http2: client connection force closed via ClientConn.Close
+16:22:35.351313 ERR: load: http: http2: client connection force closed via ClientConn.Close
+16:22:35.602666 ERR: load: http: Get "https://54.199.41.247/api/isu": http2: client connection force closed via ClientConn.Close
+16:22:35.602833 ERR: load: http: Get "https://54.199.41.247/api/isu": http2: client connection force closed via ClientConn.Close
+16:22:36.373685 ERR: load: http: Get "https://54.199.41.247/api/isu": http2: client connection force closed via ClientConn.Close
+16:22:36.373788 ERR: load: http: Get "https://54.199.41.247/api/isu": http2: client connection force closed via ClientConn.Close
+16:22:36.373881 ERR: load: http: Get "https://54.199.41.247/api/isu/c4e4e68c-c918-48c5-8966-eb56a1828d06/icon": http2: client connection force closed via ClientConn.Close
+16:22:36.373942 ERR: load: http: Get "https://54.199.41.247/api/isu/23a229b3-f0f6-44d4-b582-75260c36fa14/icon": http2: client connection force closed via ClientConn.Close
+16:22:36.374031 ERR: load: http: http2: client connection force closed via ClientConn.Close
+16:22:36.374085 ERR: load: http: Get "https://54.199.41.247/api/isu/140ba32d-3f17-449f-b241-5d5e7743d0c6/icon": http2: client connection force closed via ClientConn.Close
+16:22:36.779225 ユーザーは増えませんでした
+16:22:37.780429 score: 1535(1564 - 29) : pass
+16:22:37.780448 deduction: 29 / timeout: 0
+16:22:40.780390 score: 1939(1968 - 29) : pass
+16:22:40.780409 deduction: 29 / timeout: 0
+16:22:41.426045 ERR: load: http: http2: client connection force closed via ClientConn.Close
+16:22:41.681549 ERR: load: http: Get "https://54.199.41.247/api/isu/e56f519e-86cb-4420-846c-aa3cc8279592/icon": unexpected EOF
+16:22:41.681617 ERR: load: http: Get "https://54.199.41.247/api/isu/9a7e44ce-57bd-4ad1-bfc3-7014b99b6766/icon": unexpected EOF
+16:22:41.690156 ERR: load: http: unexpected EOF
+16:22:41.779365 ユーザーは増えませんでした
+16:22:42.961503 ERR: load: http: Get "https://54.199.41.247/api/isu": http2: client connection force closed via ClientConn.Close
+16:22:42.961587 ERR: load: http: Get "https://54.199.41.247/api/isu": http2: client connection force closed via ClientConn.Close
+16:22:42.962275 ERR: load: http: Get "https://54.199.41.247/api/condition/f8fb5e89-6c41-42fe-a246-6e037015eafd?condition_level=info%2Cwarning%2Ccritical&end_time=1628847797": http2: client connection force closed via ClientConn.Close
+16:22:42.962588 ERR: load: http: Get "https://54.199.41.247/api/isu/9a7e44ce-57bd-4ad1-bfc3-7014b99b6766/icon": http2: client connection force closed via ClientConn.Close
+16:22:42.977522 ERR: load: http: Get "https://54.199.41.247/api/isu/8dc9e059-19b0-41f4-bc1e-ee16caf9f9c0/icon": http2: client connection force closed via ClientConn.Close
+16:22:42.977888 ERR: load: http: http2: client connection force closed via ClientConn.Close
+16:22:43.781765 score: 2517(2556 - 39) : pass
+16:22:43.781791 deduction: 39 / timeout: 0
+16:22:43.987720 ERR: load: http: http2: client connection force closed via ClientConn.Close
+16:22:44.238861 ERR: load: http: http2: client connection force closed via ClientConn.Close
+16:22:45.505820 ERR: load: http: Get "https://54.199.41.247/api/isu": http2: client connection force closed via ClientConn.Close
+16:22:45.505856 ERR: load: http: Get "https://54.199.41.247/api/condition/cab99f63-bb3a-4648-b6df-376396f2c7ab?condition_level=info%2Cwarning%2Ccritical&end_time=end_time": http2: client connection force closed via ClientConn.Close
+16:22:45.506144 ERR: load: http: Get "https://54.199.41.247/api/isu/5003e9b3-9362-4be7-ac9c-44020dba1aae/icon": http2: client connection force closed via ClientConn.Close
+16:22:45.506194 ERR: load: http: Get "https://54.199.41.247/api/isu/437827a6-1ab7-4d5b-abe8-b502978f584a/icon": http2: client connection force closed via ClientConn.Close
+16:22:45.506202 ERR: load: http: Get "https://54.199.41.247/api/isu/e56f519e-86cb-4420-846c-aa3cc8279592/icon": http2: client connection force closed via ClientConn.Close
+16:22:45.506252 ERR: load: http: Get "https://54.199.41.247/api/isu/9a7e44ce-57bd-4ad1-bfc3-7014b99b6766/icon": http2: client connection force closed via ClientConn.Close
+16:22:45.506346 ERR: load: http: Get "https://54.199.41.247/api/isu/1ac85149-c6f1-4530-82d8-fba083eee1ee/icon": http2: client connection force closed via ClientConn.Close
+16:22:45.506446 ERR: load: http: Get "https://54.199.41.247/api/isu/8dc9e059-19b0-41f4-bc1e-ee16caf9f9c0/icon": http2: client connection force closed via ClientConn.Close
+16:22:45.506459 ERR: load: http: Get "https://54.199.41.247/api/isu/1f8c311d-556b-4430-a46e-2641a15613e4/icon": http2: client connection force closed via ClientConn.Close
+16:22:45.506545 ERR: load: http: Get "https://54.199.41.247/api/isu/a8a4094b-1a92-4259-8e6a-de9776fd042f/icon": http2: client connection force closed via ClientConn.Close
+16:22:45.506725 ERR: load: http: Get "https://54.199.41.247/api/isu/8bcdf5ae-e28e-429e-86a2-ee45cec3446f/icon": http2: client connection force closed via ClientConn.Close
+16:22:46.008924 ERR: load: http: http2: client connection force closed via ClientConn.Close
+16:22:46.549234 ERR: load: http: Get "https://54.199.41.247/api/isu/23a229b3-f0f6-44d4-b582-75260c36fa14/icon": http2: client connection force closed via ClientConn.Close
+16:22:46.779629 サービスの評判が良くなり、ユーザーが1人増えました
+16:22:46.783646 ERR: load: http: Get "https://54.199.41.247/api/isu/7050fbe5-cf09-463c-83a7-76617af980e5/icon": http2: client connection force closed via ClientConn.Close
+16:22:46.784141 ERR: load: http: Get "https://54.199.41.247/api/isu/9a48873d-a6b0-47f0-ac84-ed3fe47f88af/icon": http2: client connection force closed via ClientConn.Close
+16:22:46.784249 ERR: load: http: Get "https://54.199.41.247/api/isu/3fc3cd14-38b6-4073-91b7-3c75d6422a94/icon": http2: client connection force closed via ClientConn.Close
+16:22:46.784301 ERR: load: http: Get "https://54.199.41.247/api/isu/1ac85149-c6f1-4530-82d8-fba083eee1ee/icon": http2: client connection force closed via ClientConn.Close
+16:22:46.784398 ERR: load: http: Get "https://54.199.41.247/api/isu/df1111f7-90e2-4039-b414-2c3efc6e103d/icon": http2: client connection force closed via ClientConn.Close
+16:22:46.784462 ERR: load: http: Get "https://54.199.41.247/api/isu/a8a4094b-1a92-4259-8e6a-de9776fd042f/icon": http2: client connection force closed via ClientConn.Close
+16:22:46.784513 score: 2996(3050 - 54) : pass
+16:22:46.784525 deduction: 54 / timeout: 0
+16:22:46.784546 ERR: load: http: Get "https://54.199.41.247/api/isu/1b77487d-8611-40ef-ba37-389b7accbabb/icon": http2: client connection force closed via ClientConn.Close
+16:22:46.784622 ERR: load: http: Get "https://54.199.41.247/api/isu/9a7e44ce-57bd-4ad1-bfc3-7014b99b6766/icon": http2: client connection force closed via ClientConn.Close
+16:22:46.784817 ERR: load: http: Get "https://54.199.41.247/api/isu/cb62de39-7680-499e-94e2-c94ba799e66e/icon": http2: client connection force closed via ClientConn.Close
+16:22:47.314647 ERR: load: http: Get "https://54.199.41.247/api/isu/8dc9e059-19b0-41f4-bc1e-ee16caf9f9c0/icon": http2: client connection force closed via ClientConn.Close
+16:22:47.782857 ERR: load: http: http2: client connection force closed via ClientConn.Close
+16:22:47.782993 ERR: load: http: Get "https://54.199.41.247/api/isu/1c12929d-e52e-4eba-bb99-7211ba3d68ee": http2: client connection force closed via ClientConn.Close
+16:22:47.783187 ERR: load: http: Get "https://54.199.41.247/api/isu/1adb1515-3383-44ef-981b-4d20bc4eba81/icon": http2: client connection force closed via ClientConn.Close
+16:22:47.783370 ERR: load: http: Get "https://54.199.41.247/api/isu/a2cde413-4510-4560-965e-66f0fcafb9bf/icon": http2: client connection force closed via ClientConn.Close
+16:22:47.783553 ERR: load: http: Get "https://54.199.41.247/api/isu": http2: client connection force closed via ClientConn.Close
+16:22:47.783729 ERR: load: http: Get "https://54.199.41.247/api/isu": http2: client connection force closed via ClientConn.Close
+16:22:47.783834 ERR: load: http: http2: client connection force closed via ClientConn.Close
+16:22:47.783925 ERR: load: http: Get "https://54.199.41.247/api/isu/ccdef96c-a647-45c8-8244-c1bcf60fe419/icon": http2: client connection force closed via ClientConn.Close
+16:22:47.820139 ERR: load: http: Get "https://54.199.41.247/api/isu/cb62de39-7680-499e-94e2-c94ba799e66e/icon": http2: client connection force closed via ClientConn.Close
+16:22:49.253981 ERR: load: http: Get "https://54.199.41.247/api/isu": http2: client connection force closed via ClientConn.Close
+16:22:49.254074 ERR: load: http: Get "https://54.199.41.247/api/isu/4f5fac7c-1862-4ce7-b5f3-3e9ce7ead5e3/icon": http2: client connection force closed via ClientConn.Close
+16:22:49.505504 ERR: load: http: Get "https://54.199.41.247/api/isu": http2: client connection force closed via ClientConn.Close
+16:22:49.505733 ERR: load: http: Get "https://54.199.41.247/api/isu/dd205995-eb2a-40c4-a4ee-1214b37827bb/graph?datetime=1628953200": http2: client connection force closed via ClientConn.Close
+16:22:49.505773 ERR: load: http: Get "https://54.199.41.247/api/isu": http2: client connection force closed via ClientConn.Close
+16:22:49.506001 ERR: load: http: Get "https://54.199.41.247/api/isu/1c60ec7e-10df-49d3-9c4e-1fdf12829d2e/icon": http2: client connection force closed via ClientConn.Close
+16:22:49.506036 ERR: load: http: http2: client connection force closed via ClientConn.Close
+16:22:49.506114 ERR: load: http: Get "https://54.199.41.247/api/isu/f3db5dcc-f3e0-480e-90be-9d23ffbd2503/icon": http2: client connection force closed via ClientConn.Close
+16:22:49.506192 ERR: load: http: Get "https://54.199.41.247/api/isu/ab8c1970-2d19-43cb-8bfc-3577627053da/icon": http2: client connection force closed via ClientConn.Close
+16:22:49.785650 score: 3726(3808 - 82) : pass
+16:22:49.785674 deduction: 82 / timeout: 0
+16:22:50.502111 ERR: load: http: Get "https://54.199.41.247/api/isu": http2: client connection force closed via ClientConn.Close
+16:22:50.502216 ERR: load: http: Get "https://54.199.41.247/api/isu/1ac85149-c6f1-4530-82d8-fba083eee1ee/icon": http2: client connection force closed via ClientConn.Close
+16:22:50.502410 ERR: load: http: Get "https://54.199.41.247/api/isu/5003e9b3-9362-4be7-ac9c-44020dba1aae/icon": http2: client connection force closed via ClientConn.Close
+16:22:50.502431 ERR: load: http: Get "https://54.199.41.247/api/isu/c692f1c8-ab60-4199-9c1d-998bbb9510cc/icon": http2: client connection force closed via ClientConn.Close
+16:22:50.502620 ERR: load: http: Get "https://54.199.41.247/api/isu": http2: client connection force closed via ClientConn.Close
+16:22:50.502718 ERR: load: http: Get "https://54.199.41.247/api/isu/1adb1515-3383-44ef-981b-4d20bc4eba81/icon": http2: client connection force closed via ClientConn.Close
+16:22:50.502809 ERR: load: http: Get "https://54.199.41.247/api/isu/3d845746-5950-4743-9010-cabf746823be/icon": http2: client connection force closed via ClientConn.Close
+16:22:50.503041 ERR: load: http: Get "https://54.199.41.247/assets/logo_orange.svg": http2: client connection force closed via ClientConn.Close
+16:22:50.503131 ERR: load: http: Get "https://54.199.41.247/api/isu/dd205995-eb2a-40c4-a4ee-1214b37827bb/icon": http2: client connection force closed via ClientConn.Close
+16:22:50.503252 ERR: load: http: Get "https://54.199.41.247/api/isu/579dc58f-10a9-4d2a-a781-5eecf200f4d4/icon": http2: client connection force closed via ClientConn.Close
+16:22:50.503373 ERR: load: http: Get "https://54.199.41.247/api/isu/434ac16a-cbb2-49a2-a296-311345f6604c/icon": http2: client connection force closed via ClientConn.Close
+16:22:50.503596 ERR: load: http: Get "https://54.199.41.247/api/isu/ec2dcc46-30ef-42ca-9be8-0bd07f5c33e7/icon": http2: client connection force closed via ClientConn.Close
+16:22:51.491890 ERR: load: http: http2: client connection force closed via ClientConn.Close
+16:22:51.780077 ユーザーは増えませんでした
+16:22:52.491448 ERR: load: http: Get "https://54.199.41.247/api/condition/579dc58f-10a9-4d2a-a781-5eecf200f4d4?condition_level=info%2Cwarning%2Ccritical&end_time=1628956800&start_time=1628953200": http2: client connection force closed via ClientConn.Close
+16:22:52.491536 ERR: load: http: Get "https://54.199.41.247/api/isu/c5b467d1-dcfd-49a3-855d-2f0896a46062/icon": http2: client connection force closed via ClientConn.Close
+16:22:52.491586 ERR: load: http: Get "https://54.199.41.247/api/isu/9a7e44ce-57bd-4ad1-bfc3-7014b99b6766/icon": http2: client connection force closed via ClientConn.Close
+16:22:52.491751 ERR: load: http: Get "https://54.199.41.247/api/isu/e56f519e-86cb-4420-846c-aa3cc8279592/icon": http2: client connection force closed via ClientConn.Close
+16:22:52.521038 ERR: load: http: http2: client connection force closed via ClientConn.Close
+16:22:52.787196 score: 4568(4668 - 100) : pass
+16:22:52.787215 deduction: 100 / timeout: 0
+16:22:52.987166 ERR: load: http: Get "https://54.199.41.247/api/isu": http2: client connection force closed via ClientConn.Close
+16:22:52.987220 ERR: load: http: Get "https://54.199.41.247/api/isu": http2: client connection force closed via ClientConn.Close
+16:22:52.989814 SCORE: 00.StartBenchmark       : 1
+16:22:52.989820 SCORE: 01.GraphGood            : 0
+16:22:52.989826 SCORE: 02.GraphNormal          : 0
+16:22:52.989831 SCORE: 03.GraphBad             : 0
+16:22:52.989836 SCORE: 04.GraphWorst           : 223
+16:22:52.989841 SCORE: 05.TodayGraphGood       : 0
+16:22:52.989846 SCORE: 06.TodayGraphNormal     : 0
+16:22:52.989851 SCORE: 07.TodayGraphBad        : 0
+16:22:52.989857 SCORE: 08.TodayGraphWorst      : 240
+16:22:52.989862 SCORE: 09.ReadInfoCondition    : 23
+16:22:52.989867 SCORE: 10.ReadWarningCondition : 17
+16:22:52.989872 SCORE: 11.ReadCriticalCondition: 2
+16:22:52.996490 score: 0(4794 - 102) : Error count over 100
+16:22:52.996503 deduction: 102 / timeout: 0

@@ -1,0 +1,2 @@
+2021/08/21 16:29:31 [error] 71374#71374: *1 could not find named location "@app", client: 54.238.226.199, server: , request: "GET /api/isu/eb104b95-3532-4828-8550-89da717b9667/icon HTTP/2.0", host: "54.199.41.247"
+2021/08/21 16:29:31 [error] 71374#71374: *1 could not find named location "@app", client: 54.238.226.199, server: , request: "GET /api/isu/3af9b2b1-0111-4add-ab0c-5e122896bcda/icon HTTP/2.0", host: "54.199.41.247"
