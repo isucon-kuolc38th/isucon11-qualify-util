@@ -17,12 +17,12 @@ fi
 
 remote_hosts+=("isucon1")
 # remote_hosts+=("isucon2")
-# remote_hosts+=("isucon3")
+remote_hosts+=("isucon3")
 
-app_ip="x.x.x.x" # ! 要編集
+app_ip="54.199.41.247" # ! 要編集
 
 server_home="/home/isucon"
-server_git_dir="${server_home}/<appname>" # ! 要編集
+server_git_dir="${server_home}/webapp" # ! 要編集
 
 # SERVER
 # isucon1_server_logs+=("/home/isucon/isubata/webapp/go/log/app.log")
@@ -37,9 +37,9 @@ isucon1_server_logs+=("/var/log/nginx/error.log")
 # isucon3_server_logs+=("/home/isucon/isubata/webapp/go/log/app.log")
 # isucon3_server_logs+=("/var/log/nginx/access.log")
 # isucon3_server_logs+=("/var/log/nginx/error.log")
-# isucon3_server_logs+=("/var/log/mysql/error.log")
-# isucon3_server_logs+=("/var/log/mysql/query.log")
-# isucon3_server_logs+=("/var/log/mysql/slow_query.log")
+isucon3_server_logs+=("/var/log/mysql/error.log")
+isucon3_server_logs+=("/var/log/mysql/query.log")
+isucon3_server_logs+=("/var/log/mysql/slow_query.log")
 
 # LOCAL
 # isucon1_local_logs+=("${utilhome}/log/${log_id}/app/app1.log")
@@ -54,6 +54,6 @@ isucon1_local_logs+=("${utilhome}/log/${log_id}/nginx/error1.log")
 # isucon3_local_logs+=("${utilhome}/log/${log_id}/app/app3.log")
 # isucon3_local_logs+=("${utilhome}/log/${log_id}/nginx/access3.log")
 # isucon3_local_logs+=("${utilhome}/log/${log_id}/nginx/error3.log")
-# isucon3_local_logs+=("${utilhome}/log/${log_id}/mysql/error3.log")
-# isucon3_local_logs+=("${utilhome}/log/${log_id}/mysql/query3.log")
-# isucon3_local_logs+=("${utilhome}/log/${log_id}/mysql/slow_query3.log")
+isucon3_local_logs+=("${utilhome}/log/${log_id}/mysql/error3.log")
+isucon3_local_logs+=("${utilhome}/log/${log_id}/mysql/query3.log")
+isucon3_local_logs+=("${utilhome}/log/${log_id}/mysql/slow_query3.log")

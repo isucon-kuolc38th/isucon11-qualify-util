@@ -21,7 +21,7 @@ touch ${utilhome}/log/${log_id}/result
 cp -r ${utilhome}/pprof ${utilhome}/log/${log_id}/pprof
 
 # fetch measure result
-curl http://$app_ip/stats >${utilhome}/log/${log_id}/measure.csv
+curl -k https://$app_ip/stats >${utilhome}/log/${log_id}/measure.csv
 # csv -> tsv
 # tr "," "\\t" <${utilhome}/log/${log_id}/measure.csv >${utilhome}/log/${log_id}/measure.tsv
 
@@ -34,14 +34,14 @@ for ((i = 0; i < ${#isucon1_server_logs[@]}; i++)); do
 	scp isucon1:$server_log $local_log
 done
 
-echo "-------------"
-echo "isucon2"
-for ((i = 0; i < ${#isucon2_server_logs[@]}; i++)); do
-	server_log="${isucon2_server_logs[$i]}"
-	local_log="${isucon2_local_logs[$i]}"
-	mkdir -p ${local_log%/*}
-	scp isucon2:$server_log $local_log
-done
+# echo "-------------"
+# echo "isucon2"
+# for ((i = 0; i < ${#isucon2_server_logs[@]}; i++)); do
+# 	server_log="${isucon2_server_logs[$i]}"
+# 	local_log="${isucon2_local_logs[$i]}"
+# 	mkdir -p ${local_log%/*}
+# 	scp isucon2:$server_log $local_log
+# done
 
 echo "-------------"
 echo "isucon3"
@@ -54,15 +54,18 @@ done
 
 # print SQL digest
 # pt-query-digest ${utilhome}/log/${log_id}/mysql/slow_query2.log >${utilhome}/log/${log_id}/query_digest2
-# pt-query-digest ${utilhome}/log/${log_id}/mysql/slow_query3.log >${utilhome}/log/${log_id}/query_digest3
+pt-query-digest ${utilhome}/log/${log_id}/mysql/slow_query3.log >${utilhome}/log/${log_id}/query_digest3
 
 # print ALP result
 ltsv_format=""
-ltsv_format+="/api/chair/[0-9]+,"
-ltsv_format+="/api/chair/buy/[0-9]+,"
-ltsv_format+="/api/estate/[0-9]+,"
-ltsv_format+="/api/estate/req_doc/[0-9]+,"
-ltsv_format+="/api/recommended_estate/[0-9]+"
+ltsv_format+="/api/isu/[0-9a-z\-]+/icon,"
+ltsv_format+="/api/isu/[0-9a-z\-]+/graph,"
+ltsv_format+="/api/isu/[0-9a-z\-]+,"
+ltsv_format+="/api/condition/[0-9a-z\-]+,"
+ltsv_format+="/isu/[0-9a-z\-]+/condition,"
+ltsv_format+="/isu/[0-9a-z\-]+/graph,"
+ltsv_format+="/isu/[0-9a-z\-]+"
+
 cat ${utilhome}/log/${log_id}/nginx/access1.log | alp ltsv -m $ltsv_format --sort sum -r >${utilhome}/log/${log_id}/alp1
 
 # 変更タグとスコアを入力

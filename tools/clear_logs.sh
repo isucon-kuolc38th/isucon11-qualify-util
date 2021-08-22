@@ -20,4 +20,4 @@ done
 
 ssh -t isucon1 $clearing_command_1
 # ssh -t isucon2 $clearing_command_2
-# ssh -t isucon3 $clearing_command_3
+ssh -t isucon3 $clearing_command_3

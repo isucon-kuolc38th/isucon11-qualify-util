@@ -5,7 +5,7 @@ utilhome=$(pwd)
 source ${utilhome}/tools/lib/default.sh
 
 if [ $# != 1 ]; then
-	profile_time_length=80
+	profile_time_length=90
 else
 	profile_time_length=$1
 fi
